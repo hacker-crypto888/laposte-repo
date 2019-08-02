@@ -1,0 +1,2267 @@
+{
+  "web_cert_trusted": true,
+  "web_has_hpkp_header": false,
+  "mx_has_protocol_sslv3": false,
+  "web_ciphers": {
+    "std_STRONG": {
+      "severity": "MEDIUM",
+      "finding": "Strong encryption (AEAD ciphers)           not offered"
+    }
+  },
+  "cname_records": [],
+  "web_has_ssl": true,
+  "mixed_content": false,
+  "web_has_protocol_tls1_3": false,
+  "web_vulnerabilities": {
+    "sec_client_renego": {
+      "severity": "HIGH",
+      "finding": "Secure Client-Initiated Renegotiation : VULNERABLE, DoS threat",
+      "cve": "CVE-2009-3555"
+    },
+    "fallback_scsv": {
+      "severity": "MEDIUM",
+      "finding": "TLS_FALLBACK_SCSV (RFC 7507) (experimental) : But received non-RFC-compliant 'handshake failure' instead of 'inappropriate fallback'",
+      "cve": ""
+    },
+    "lucky13": {
+      "severity": "LOW",
+      "finding": "potentially vulnerable to LUCKY13, uses cipher block chaining (CBC) ciphers with TLS. Check patches",
+      "cve": "CVE-2013-0169"
+    },
+    "cbc_tls1": {
+      "severity": "MEDIUM",
+      "finding": "BEAST: CBC ciphers for TLS1: ECDHE-RSA-AES256-SHA AES256-SHA ECDHE-RSA-AES128-SHA AES128-SHA",
+      "cve": "CVE-2011-3389"
+    },
+    "beast": {
+      "severity": "LOW",
+      "finding": "BEAST: VULNERABLE -- but also supports higher protocols (possible mitigation): TLSv1.1 TLSv1.2",
+      "cve": "CVE-2011-3389"
+    },
+    "breach": {
+      "severity": "HIGH",
+      "finding": "BREACH: potentially VULNERABLE, uses gzip HTTP compression.  - only supplied '/' tested ( Can be ignored for static pages or if no secrets in the page)",
+      "cve": "CVE-2013-3587"
+    }
+  },
+  "web_pfs": true,
+  "profilecookies": [
+    {
+      "baseDomain": "tradelab.fr",
+      "value": "eJxljsEKwjAMht/lP+/QpiZqX0U8uSoFGaPpvJS9+1rLVPD25QshXwGJIXsQ+IKUFd6y0PFMjoUND0i3KcObCuOSOlQTO+ncd8+s8e/yvkzwl4I4woOsYwzQ8KiDrT9PJNJEDK+vcc3kMLeDN/70iGVD1e09uvfop0d7z3pd1w15KDh6",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".tradelab.fr",
+      "lifetime": 7776007.51671195,
+      "expiry": 1570568361.516712,
+      "name": "iev0"
+    },
+    {
+      "baseDomain": "adnxs.com",
+      "value": "dTM7k!M4/8D>6NRF']wIg2E?ckZZ@x!u?mIe(2+Hcd#A^e+.<Q!9k3i/91bH",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".adnxs.com",
+      "lifetime": 7776007.516009092,
+      "expiry": 1570568361.516009,
+      "name": "anj"
+    },
+    {
+      "baseDomain": "amazon-adsystem.com",
+      "value": "0",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".amazon-adsystem.com",
+      "lifetime": 22982403.352912903,
+      "expiry": 1585774757.352913,
+      "name": "ad-privacy"
+    },
+    {
+      "baseDomain": "linkedin.com",
+      "value": "\"v=1&20190710205917e7fe115f-4088-4fcd-84af-c7e731b6a8efAQHNOPzcFXg1_mM9hjosTqoGMCaTc0cK\"",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": true,
+      "host": ".www.linkedin.com",
+      "lifetime": 63113855.34398699,
+      "expiry": 1625906209.343987,
+      "name": "bscookie"
+    },
+    {
+      "baseDomain": "linkedin.com",
+      "value": "\"v=2&6fcd169a-819c-433f-8f6d-e2ad45c258aa\"",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".linkedin.com",
+      "lifetime": 63113855.3439641,
+      "expiry": 1625906209.343964,
+      "name": "bcookie"
+    },
+    {
+      "baseDomain": "linkedin.com",
+      "value": "v=2&lang=en-us",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".linkedin.com",
+      "lifetime": -1,
+      "expiry": -1,
+      "name": "lang"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "1%2C2%2C3%2C4",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 33696003,
+      "expiry": 1596488357,
+      "name": "TC_PRIVACY_CENTER"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "ALL",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 34214403,
+      "expiry": 1597006757,
+      "name": "cookie_privacy_temporaire_CENTER"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "0@001@ALL",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 34214403,
+      "expiry": 1597006757,
+      "name": "cookie_privacy_temporaire"
+    },
+    {
+      "baseDomain": "doubleclick.net",
+      "value": "AHWqTUmzUXbZvZbZDTvs0JGx6wGodkAS7you_55r6H1ppWaxOW7ls78LgUb5z2vH",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".doubleclick.net",
+      "lifetime": 33696001.90245795,
+      "expiry": 1596488355.902458,
+      "name": "IDE"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "1.1.1385886333.1562792357",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 7776002,
+      "expiry": 1570568356,
+      "name": "_gcl_au"
+    },
+    {
+      "baseDomain": "linkedin.com",
+      "value": "d6169391-511d-4f32-9fbc-653b179fcc5b",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": true,
+      "host": ".ads.linkedin.com",
+      "lifetime": 2592002.9333810806,
+      "expiry": 1565384356.933381,
+      "name": "BizoID"
+    },
+    {
+      "baseDomain": "mmtro.com",
+      "value": "f61a5e83-ce05-44b5-8043-1f23b14268f8",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".mmtro.com",
+      "lifetime": 34128002.82630992,
+      "expiry": 1596920356.82631,
+      "name": "FUID"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "63bb0350-aaf5-401e-9431-0d0afde2b10d",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 34128002,
+      "expiry": 1596920356,
+      "name": "__troRUID"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "NDg1MjMz",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".weborama.fr",
+      "lifetime": 1802.08078789711,
+      "expiry": 1562794156.080788,
+      "name": "wbo_temps_reel"
+    },
+    {
+      "baseDomain": "mmtro.com",
+      "value": "63bb0350-aaf5-401e-9431-0d0afde2b10d",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".mmtro.com",
+      "lifetime": 34128005.77644992,
+      "expiry": 1596920359.77645,
+      "name": "RUID"
+    },
+    {
+      "baseDomain": "weborama.com",
+      "value": "ok",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".weborama.com",
+      "lifetime": 604802.7028670311,
+      "expiry": 1563397156.702867,
+      "name": "wam-sync"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "2019732059155330643719",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 1801,
+      "expiry": 1562794155,
+      "name": "TCSESSION"
+    },
+    {
+      "baseDomain": "weborama.com",
+      "value": "600715E6-8951-3F73-B899-2C27B1C39325",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".weborama.com",
+      "lifetime": 7776002.702825069,
+      "expiry": 1570568356.702825,
+      "name": "wui"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": "cstatic.weborama.fr",
+      "lifetime": 529246,
+      "expiry": 1563321600,
+      "name": "_xttrk2_uk"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "1562792356_1800_1__63bb0350-aaf5-401e-9431-0d0afde2b10d%3A1562792356_1562792356_1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 34128002,
+      "expiry": 1596920356,
+      "name": "__trossion"
+    },
+    {
+      "baseDomain": "rlcdn.com",
+      "value": "CAA=",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".rlcdn.com",
+      "lifetime": 5184002.64645195,
+      "expiry": 1567976356.646452,
+      "name": "pxrc"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 86402,
+      "expiry": 1562878756,
+      "name": "__troSYNC"
+    },
+    {
+      "baseDomain": "rlcdn.com",
+      "value": "g7DE4Gesyw6v+DWt+39o4cXlEFCpBx47RWdMLPAdnc8=",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".rlcdn.com",
+      "lifetime": 31536002.646420956,
+      "expiry": 1594328356.646421,
+      "name": "rlas3"
+    },
+    {
+      "baseDomain": "iadvize.com",
+      "value": "1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": true,
+      "host": "halc.iadvize.com",
+      "lifetime": 31536002.46690607,
+      "expiry": 1594328356.466906,
+      "name": "4219vvc"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": "cstatic.weborama.fr",
+      "lifetime": 529246,
+      "expiry": 1563321600,
+      "name": "_xttrk2_mpub"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "1.1562792356.1562792356.1562792356.1.1.1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".www.labanquepostale.fr",
+      "lifetime": 31536002,
+      "expiry": 1594328356,
+      "name": "_tlv"
+    },
+    {
+      "baseDomain": "commander1.com",
+      "value": "201907102259152506793508",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.commander1.com",
+      "lifetime": -1,
+      "expiry": -1,
+      "name": "TCSESSION"
+    },
+    {
+      "baseDomain": "tradelab.fr",
+      "value": "CAESECK0lmBzJqfuS0uAPf10svI",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".tradelab.fr",
+      "lifetime": 1209602.6056990623,
+      "expiry": 1564001956.605699,
+      "name": "uuid3"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "eyJpZCI6InJ5XzI0M0U1NDAwLUVBM0YtNDA3My1CQkIwLTI5MDJENkMxRTlERiIsImNpZCI6bnVsbCwib3JpZ2luIjpmYWxzZSwicmVmIjpudWxsLCJjb250IjpudWxsLCJucyI6ZmFsc2V9",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".weborama.fr",
+      "lifetime": 1802,
+      "expiry": 1562794156,
+      "name": "ry_ry-b4nq23p0_so_realytics"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "!9NnzkYeVQg7teu5SGkJ9xgoKtm3ZyoQDxiVLDNq2P5F1dm/zitnf/UWbC00xyaMbEwFDO8EsabYKkUg=",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": "labanquepostale.fr",
+      "lifetime": -1,
+      "expiry": -1,
+      "name": "LaBanquePostale"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "1066495624955824685",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".www.labanquepostale.fr",
+      "lifetime": 7776002,
+      "expiry": 1570568356,
+      "name": "_tli"
+    },
+    {
+      "baseDomain": "linkedin.com",
+      "value": "v=2&lang=en-us",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".ads.linkedin.com",
+      "lifetime": -1,
+      "expiry": -1,
+      "name": "lang"
+    },
+    {
+      "baseDomain": "tradelab.fr",
+      "value": "1066495624955824685",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".tradelab.fr",
+      "lifetime": 7776007.516690016,
+      "expiry": 1570568361.51669,
+      "name": "uuid2"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "xuE2Y31E8qTG37",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".weborama.fr",
+      "lifetime": 8035203.042869091,
+      "expiry": 1570827557.042869,
+      "name": "AFFICHE_W"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "119732059151006778806",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 33955201,
+      "expiry": 1596747555,
+      "name": "TCPID"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "*.991000:991001..1066495624955824685",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".www.labanquepostale.fr",
+      "lifetime": 1807,
+      "expiry": 1562794161,
+      "name": "_tls"
+    },
+    {
+      "baseDomain": "amazon-adsystem.com",
+      "value": "A-nLZ9elakivqhlGtPs1KhQ",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".amazon-adsystem.com",
+      "lifetime": 22982403.352888107,
+      "expiry": 1585774757.352888,
+      "name": "ad-id"
+    },
+    {
+      "baseDomain": "criteo.com",
+      "value": "8f782ac6-66cb-438f-894d-1ab143c6a339",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".criteo.com",
+      "lifetime": 31536002.504307985,
+      "expiry": 1594328356.504308,
+      "name": "uid"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": "cstatic.weborama.fr",
+      "lifetime": 529246,
+      "expiry": 1563321600,
+      "name": "_xttrk2"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": "cstatic.weborama.fr",
+      "lifetime": 529246,
+      "expiry": 1563321600,
+      "name": "_xttrk2_ids"
+    },
+    {
+      "baseDomain": "iadvize.com",
+      "value": "1562792356",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": true,
+      "host": "halc.iadvize.com",
+      "lifetime": 31536002.466923,
+      "expiry": 1594328356.466923,
+      "name": "4219last"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "CwCbaaC",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".groupelapostefranalytics.solution.weborama.fr",
+      "lifetime": 2731776.080801964,
+      "expiry": 1565524130.080802,
+      "name": "_wrvur"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "CwCbaaeabW",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".groupelapostefranalytics.solution.weborama.fr",
+      "lifetime": 2731776.0808160305,
+      "expiry": 1565524130.080816,
+      "name": "_wrvusr"
+    },
+    {
+      "baseDomain": "xiti.com",
+      "value": "C2BCB9DB-CDC3-4A12-97CA-B27AAA2DBC60",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".xiti.com",
+      "lifetime": 34300801.9153049,
+      "expiry": 1597093155.915305,
+      "name": "idrxvr"
+    },
+    {
+      "baseDomain": "linkedin.com",
+      "value": "AQJ6IhrItPqVWAAAAWvdruypv5aljPxiuc5mnfDvvaDovFs58zy8o40TW0y49TfzOFL8hApKGCU",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": true,
+      "host": ".linkedin.com",
+      "lifetime": 2592003.1151270866,
+      "expiry": 1565384357.115127,
+      "name": "UserMatchHistory"
+    },
+    {
+      "baseDomain": "commander1.com",
+      "value": "762c609e-21bc-4b13-b66d-50f35ff7bd83",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".commander1.com",
+      "lifetime": -1,
+      "expiry": -1,
+      "name": "WID"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "privacy-0",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 5184001,
+      "expiry": 1567976355,
+      "name": "ab_privacy_2"
+    },
+    {
+      "baseDomain": "tradelab.fr",
+      "value": "1066495624955824685",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".tradelab.fr",
+      "lifetime": 7776007.516661882,
+      "expiry": 1570568361.516662,
+      "name": "uuid"
+    },
+    {
+      "baseDomain": "adnxs.com",
+      "value": "1066495624955824685",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".adnxs.com",
+      "lifetime": 7776007.516038895,
+      "expiry": 1570568361.516039,
+      "name": "uuid2"
+    },
+    {
+      "baseDomain": "bing.com",
+      "value": "1ADB5B7B577D6527208556EE537D664B",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".bing.com",
+      "lifetime": 33696002.89190602,
+      "expiry": 1596488356.891906,
+      "name": "MUID"
+    },
+    {
+      "baseDomain": "weborama.fr",
+      "value": "eyJpZCI6InJ5XzI0M0U1NDAwLUVBM0YtNDA3My1CQkIwLTI5MDJENkMxRTlERiIsImNpZCI6bnVsbCwiZXhwIjoxNTk0MzI4MzU2NDMxLCJjcyI6bnVsbH0%3D",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".weborama.fr",
+      "lifetime": 31536002,
+      "expiry": 1594328356,
+      "name": "ry_ry-b4nq23p0_realytics"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "%7B%22name%22%3A%22atidvisitor%22%2C%22val%22%3A%7B%22vrn%22%3A%22-388889-%22%7D%2C%22options%22%3A%7B%22path%22%3A%22%2F%22%2C%22session%22%3A15724800%2C%22end%22%3A15724800%7D%7D",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 15724801.737272024,
+      "expiry": 1578517155.737272,
+      "name": "atidvisitor"
+    },
+    {
+      "baseDomain": "linkedin.com",
+      "value": "\"b=OGST05:g=1371:u=1:i=1562792356:t=1562878756:s=AQFGwWMKgYSVHK_uaJIVya5-PYkYcnRI\"",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".linkedin.com",
+      "lifetime": 86402.93349790573,
+      "expiry": 1562878756.933498,
+      "name": "lidc"
+    },
+    {
+      "baseDomain": "commander1.com",
+      "value": "2019071022591511247099989",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": ".commander1.com",
+      "lifetime": 31536003.14404297,
+      "expiry": 1594328357.144043,
+      "name": "TCID"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "1",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".labanquepostale.fr",
+      "lifetime": 2592001,
+      "expiry": 1565384355,
+      "name": "tCdebugLib"
+    },
+    {
+      "baseDomain": "bing.com",
+      "value": "2543EB0C1D7C639B2DD0E6991CB0629A",
+      "isHttpOnly": true,
+      "path": "/",
+      "isSecure": false,
+      "host": "bat.bing.com",
+      "lifetime": 33696002.891923904,
+      "expiry": 1596488356.891924,
+      "name": "MUIDB"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "2135:12608266",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": ".www.labanquepostale.fr",
+      "lifetime": 31536007,
+      "expiry": 1594328361,
+      "name": "_tlp"
+    },
+    {
+      "baseDomain": "labanquepostale.fr",
+      "value": "017add7920e10222fbdcd3bc849d9e5a9cd8f8b2b1b82ab120525b47be14381f2109a31b60db25a7edb200b2d4127edaccc2404f8b",
+      "isHttpOnly": false,
+      "path": "/",
+      "isSecure": false,
+      "host": "labanquepostale.fr",
+      "lifetime": -1,
+      "expiry": -1,
+      "name": "TS01ebf18c"
+    }
+  ],
+  "mx_pfs": true,
+  "web_ssl_finished": true,
+  "a_records_reverse": [
+    [
+      "mx-out5.labanquepostale.fr"
+    ]
+  ],
+  "web_has_hsts_preload": false,
+  "a_locations": [
+    "France"
+  ],
+  "a_records": [
+    "83.206.67.137"
+  ],
+  "web_has_hsts_preload_header": false,
+  "mx_locations": [
+    "France"
+  ],
+  "reachable": true,
+  "mx_has_protocol_tls1_1": true,
+  "google_analytics_present": false,
+  "mx_a_records": [
+    [
+      20,
+      [
+        "81.252.54.30"
+      ]
+    ]
+  ],
+  "web_has_protocol_tls1_1": true,
+  "web_has_protocol_tls1_2": true,
+  "third_party_requests_count": 184,
+  "mx_a_records_reverse": [
+    [
+      20,
+      [
+        [
+          "mx.labanquepostale.fr"
+        ]
+      ]
+    ]
+  ],
+  "final_url": "https://www.labanquepostale.fr/",
+  "flashcookies_count": null,
+  "third_parties_count": 55,
+  "requests_count": 220,
+  "flashcookies": [],
+  "web_has_hsts_header": false,
+  "final_https_url": "https://www.labanquepostale.fr/",
+  "success": true,
+  "openwpm_final_url": "https://www.labanquepostale.fr/",
+  "https": true,
+  "mx_ssl_finished": true,
+  "headerchecks": {
+    "x-content-type-options": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "content-security-policy": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "x-xss-protection": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "x-frame-options": {
+      "value": "",
+      "status": "MISSING"
+    },
+    "referrer-policy": {
+      "value": "",
+      "status": "MISSING"
+    }
+  },
+  "mx_cert_trusted": true,
+  "initial_url": "http://labanquepostale.fr/",
+  "mx_has_protocol_tls1": true,
+  "mx_cert_trusted_reason": "",
+  "final_url_is_https": true,
+  "cookie_stats": {
+    "third_party_flash": 0,
+    "first_party_flash": 0,
+    "third_party_track": 37,
+    "first_party_long": 14,
+    "third_party_track_uniq": 12,
+    "third_party_long": 35,
+    "first_party_short": 4,
+    "third_party_track_domains": [
+      "tradelab.fr",
+      "adnxs.com",
+      "amazon-adsystem.com",
+      "linkedin.com",
+      "doubleclick.net",
+      "mmtro.com",
+      "weborama.fr",
+      "rlcdn.com",
+      "iadvize.com",
+      "commander1.com",
+      "criteo.com",
+      "xiti.com"
+    ],
+    "third_party_short": 6
+  },
+  "mx_records": [
+    [
+      20,
+      "mx.labanquepostale.fr"
+    ]
+  ],
+  "mx_vulnerabilities": {
+    "sec_client_renego": {
+      "severity": "MEDIUM",
+      "finding": "Secure Client-Initiated Renegotiation : VULNERABLE, potential DoS threat",
+      "cve": "CVE-2009-3555"
+    },
+    "beast": {
+      "severity": "LOW",
+      "finding": "BEAST: VULNERABLE -- but also supports higher protocols (possible mitigation): TLSv1.1 TLSv1.2",
+      "cve": "CVE-2011-3389"
+    },
+    "lucky13": {
+      "severity": "LOW",
+      "finding": "potentially vulnerable to LUCKY13, uses cipher block chaining (CBC) ciphers with TLS. Check patches",
+      "cve": "CVE-2013-0169"
+    },
+    "cbc_tls1": {
+      "severity": "MEDIUM",
+      "finding": "BEAST: CBC ciphers for TLS1: DHE-RSA-AES256-SHA DHE-RSA-CAMELLIA256-SHA AES256-SHA CAMELLIA256-SHA DHE-RSA-AES128-SHA DHE-RSA-CAMELLIA128-SHA AES128-SHA CAMELLIA128-SHA",
+      "cve": "CVE-2011-3389"
+    }
+  },
+  "web_has_protocol_sslv3": false,
+  "tracker_requests": [
+    "4344926.fls.doubleclick.net",
+    "6927651.fls.doubleclick.net",
+    "8376301.fls.doubleclick.net",
+    "aax-eu.amazon-adsystem.com",
+    "adservice.google.com",
+    "aimfar.solution.weborama.fr",
+    "api.iadvize.com",
+    "api.realytics.io",
+    "bsd.frontend.weborama.fr",
+    "cdn-eu.realytics.net",
+    "cdn.mmtro.com",
+    "cdn.tagcommander.com",
+    "cdn.tradelab.fr",
+    "cm.g.doubleclick.net",
+    "cr.frontend.weborama.fr",
+    "cstatic.weborama.fr",
+    "engage.commander1.com",
+    "fstatic.iadvize.com",
+    "googleads.g.doubleclick.net",
+    "groupelaposte.solution.weborama.fr",
+    "groupelapostefranalytics.solution.weborama.fr",
+    "gum.criteo.com",
+    "halc.iadvize.com",
+    "i.realytics.io",
+    "ib.adnxs.com",
+    "idsync.frontend.weborama.fr",
+    "idsync.rlcdn.com",
+    "its.tradelab.fr",
+    "labanquepostale.commander1.com",
+    "logs.xiti.com",
+    "mmtro.com",
+    "privacy.commander1.com",
+    "px.ads.linkedin.com",
+    "rd.frontend.weborama.fr",
+    "secure.adnxs.com",
+    "seg.mmtro.com",
+    "snap.licdn.com",
+    "tgt.mmtro.com",
+    "tp.realytics.io",
+    "wam-google.solution.weborama.fr",
+    "wamfactory.solution.weborama.fr",
+    "www.google.com",
+    "www.googleadservices.com",
+    "www.googletagmanager.com"
+  ],
+  "requests": [
+    {
+      "headers": null,
+      "url": "http://labanquepostale.fr/",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://labanquepostale.fr/",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/particulier.html",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/base.min.css",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i,900,900i&subset=latin-ext",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/base.min.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tagcommander.com/2623/tc_LaBanquePostale_4.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://banquepostale.inbenta.com/jsonp/inbenta-autocomplete.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/images/loading.gif",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/commons/clientlibs/images/bp-app/logo-lbp.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/Home/new-homepage/tel-3639.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/Smartphone/Interstitiel_stmarphone.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/tablette/Interstitiel_tablette.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/images/lbp-app-android.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/images/lbp-app-ios.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/images/lbp-app-windows.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/images/close.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/mbp/actus/budget-rentree/depenses-etudes-picto.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/mbp/actus/sous-location/sous-location-picto.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/mbp/actus/choix-carte-bancaire/carte-bancaire-picto.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/solutions-citoyennes/acutalites/voyage-solidaire/voyage-solidaire-picto.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/solutions-citoyennes/acutalites/transition-energetique/transition-energetique-picto.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/solutions-citoyennes/acutalites/permaculture/permaculture-picto.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/base-footer.min.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tagcommander.com/2623/tc_LaBanquePostale_5.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tagcommander.com/2623/tc_LaBanquePostale_6.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/clientlib-iadvize.min.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://banquepostale.inbenta.com/assets/css/inbenta.css?20190308",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://banquepostale.inbenta.com/assets/js/inbenta.js?20190308",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/etc/designs/labanquepostale/particuliers/clientlibs/icomoon-library/icons.woff?-vqd8r4",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjx4wXg.woff2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tagcommander.com/privacy/2623/privacy_v2_5.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/Jeunes/tuiles-home/moment-de-vie/LBP-TalentBooster-MDV-gestion-budget.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/seniors/2019/tuiles/TUILE_MON_-LOGEMENT.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/Jeunes/tuiles-home/moment-de-vie/LBP-TalentBooster-MDV-logo.png",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh50XSwiPGQ.woff2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fonts.gstatic.com/s/lato/v15/S6u_w4BMUTPHjxsI9w2_Gwft.woff2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh7USSwiPGQ.woff2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.youtube.com/iframe_api",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://api.dmcdn.net/all.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/iadvize.js?sid=4219&tpl=laposte2&lang=fr",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://engage.commander1.com/reach?tc_s=2623",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/particulier.alertMessage.json",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://d1typd0v0mfr0u.cloudfront.net/1938/1938.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://d1typd0v0mfr0u.cloudfront.net/1939/1939.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://d1typd0v0mfr0u.cloudfront.net/1929/1929.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://d1typd0v0mfr0u.cloudfront.net/1928/1928.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://d1typd0v0mfr0u.cloudfront.net/1936/1936.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tagcommander.com/measure/measure.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://logs.xiti.com/hit.xiti?s=388889&ts=1562792355739&vtag=5.5.0&ptag=js&r=1920x1080x24x24&re=1920x1080&hl=20x59x15&lng=en-US&idp=2059151027219&jv=0&p=particulier&s2=21&vrn=1&f1=&f2=&f3=&f4=&f5=&f6=&f7=&f8=&f9=&f10=&x1=0&ref=",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://groupelaposte.solution.weborama.fr/fcgi-bin/dispatch.fcgi?a.A=co&a.si=322&a.cp=1396&a.ct=b&da=1562792355&g.ru=&g.pu=https%3A//www.labanquepostale.fr/",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cstatic.weborama.fr/js/wam/customers/wamfactory_dpm.laposte.min.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cstatic.weborama.fr/js/wreport_wcm.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://4344926.fls.doubleclick.net/activityi;src=4344926;type=invmedia;cat=ihanrefv;ord=195314818509.66425?",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://bat.bing.com/bat.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://bsd.frontend.weborama.fr/bsd?format=jsonp&token=sXoavSNiA71z&callback=parseProfile",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://snap.licdn.com/li.lms-analytics/insight.min.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tradelab.fr/tag/e1e16f7b41.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.googletagmanager.com/gtag/js?id=AW-993136125",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://8376301.fls.doubleclick.net/activityi;src=8376301;type=banqu0;cat=accueil;u1=https://www.labanquepostale.fr/;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=6883597277373.11?",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/js/dist/live.js?version=1562317634",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://engage.commander1.com/reach?tc_firsttime=1&tc_s=2623",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://s.ytimg.com/yts/jsbin/www-widgetapi-vflPBjLfx/www-widgetapi.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://labanquepostale.commander1.com/cs3/?tcs=2623&rand=0.7090604998538781&chn=DIRECT_ACCESS&p=%2Fcontent%2Fparticulier&pt=%2Fapps%2Flabanquepostale%2Fparticuliers%2Ftemplates%2Fhomepage&user_id=&dev=d",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://tgt.mmtro.com/t?&tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&zid=1938&cb=promoUpdate&output=js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://tgt.mmtro.com/t?&tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&zid=1929&cb=promoUpdate&output=js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://tgt.mmtro.com/t?&tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&zid=1936&cb=promoUpdate&output=js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://tgt.mmtro.com/t?&tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&zid=1928&cb=promoUpdate&output=js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://tgt.mmtro.com/t?&tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&zid=1939&cb=promoUpdate&output=js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://4344926.fls.doubleclick.net/activityi;dc_pre=COf86Zmfq-MCFQIEiwodK0UJXQ;src=4344926;type=invmedia;cat=ihanrefv;ord=195314818509.66425?",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://8376301.fls.doubleclick.net/activityi;dc_pre=CISD6pmfq-MCFYOhewodMIMP7w;src=8376301;type=banqu0;cat=accueil;u1=https://www.labanquepostale.fr/;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=6883597277373.11?",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/rpc/live.1.php?sid=4219&tpl=laposte2&lang=fr",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://groupelaposte.solution.weborama.fr/fcgi-bin/dispatch.fcgi?g.bo=OK&g.rn=970236&a.A=co&a.si=322&a.cp=1396&a.ct=b&da=1562792355&g.ru=&g.pu=https%3A//www.labanquepostale.fr/",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://privacy.commander1.com/privacy-consent/?id=4&site=2623&version=001&id_privacy=5&type_action=banner&privacy_action=V&tcpid=119732059151006778806&tc_optout=1&rand=0.6579246978979416",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://bsd.frontend.weborama.fr/bsd?format=jsonp&token=sXoavSNiA71z&callback=parseProfile&bounce=1&random=299513011",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://logs.xiti.com/hit.xiti?s=388889&ts=1562792355739&vtag=5.5.0&ptag=js&r=1920x1080x24x24&re=1920x1080&hl=20x59x15&lng=en-US&idp=2059151027219&jv=0&p=particulier&s2=21&vrn=1&f1=&f2=&f3=&f4=&f5=&f6=&f7=&f8=&f9=&f10=&x1=0&ref=&Rdt=On",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://wamfactory.solution.weborama.fr/stream/?wamid=1362&Wvar=%7B%22cmspagename%22%3A%22%2Fcontent%2Fparticulier%22%2C%22cmspagetitle%22%3A%22Particulier%22%2C%22cmstemplatename%22%3A%22%2Fapps%2Flabanquepostale%2Fparticuliers%2Ftemplates%2Fhomepage%22%2C%22xitixtpage%22%3A%22particulier%22%2C%22wamid%22%3A%221362%22%2C%22typ%22%3A%221%22%2C%22url%22%3A%22https%253A%252F%252Fwww.labanquepostale.fr%252F%22%2C%22ref%22%3A%22%22%7D&d.r=1562792355951",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://groupelapostefranalytics.solution.weborama.fr/fcgi-bin/comptage_wreport.fcgi?WRP_ID=485233&WRP_PFL=%7C%7C%7C%7C&BI1=&BI2=&BI3=&BI4=&BI5=&WRP_SECTION=NA&WRP_SUBSECTION=NA&WRP_CONTENT=&WRP_CHANNEL=&ver=2&da2=1562792355&ta=1920x1080&co=24&ref=",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://ib.adnxs.com/getuid?//its.tradelab.fr/?type=tlsync&uuid2=$UID&callback=tl_sync",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://bat.bing.com/action/0?ti=4050178&Ver=2&mid=01bc1478-2216-a367-3447-cb06c979f4ad&pi=0&lg=en-US&sw=1920&sh=1080&sc=24&tl=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&p=https%3A%2F%2Fwww.labanquepostale.fr%2F&r=&lt=1075&evt=pageLoad&msclkid=N&rn=322369",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cstatic.weborama.fr/iframe/external_ids_sync.html?d.r=1562792355948",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/campaigns/1936/famille-defaut.html/jcr:content.html",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/campaigns/1938/ouverture-de-compte-defaut.html/jcr:content.html",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/storage.php?type=local&o=https://www.labanquepostale.fr",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/campaigns/1939/projet-immo-defaut.html/jcr:content.html",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/campaigns/1929/jeunes-jeu-concours-nba-defaut.html/jcr:content.html",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/campaigns/1928/3pp-defaut.html/jcr:content.html",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/Home/new-homepage/commerciale/mea-hp-740x430-3pp-echographie.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/Home/new-homepage/commerciale/mea-ec-740x430-jc-nba-crea1.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.labanquepostale.fr/content/dam/refonte_Particulier/Home/new-homepage/LBP-nouveautes-site-min.jpg",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://ib.adnxs.com/bounce?%2Fgetuid%3F%2F%2Fits.tradelab.fr%2F%3Ftype%3Dtlsync%26uuid2%3D%24UID%26callback%3Dtl_sync",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CISD6pmfq-MCFYOhewodMIMP7w;src=8376301;type=banqu0;cat=accueil;u1=https://www.labanquepostale.fr/;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=6883597277373.11",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=COf86Zmfq-MCFQIEiwodK0UJXQ;src=4344926;type=invmedia;cat=ihanrefv;ord=195314818509.66425",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/993136125/?random=1562792356262&cv=9&fst=1562792356262&num=1&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&rfmt=3&fmt=4",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/993136125/?random=1562792356270&cv=9&fst=1562792356270&num=1&bg=ffffff&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6q1&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&rfmt=3&fmt=4",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/993136125/?random=1562792356275&cv=9&fst=1562792356275&num=1&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&rfmt=3&fmt=4",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://its.tradelab.fr/?type=tlsync&uuid2=1066495624955824685&callback=tl_sync",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cstatic.weborama.fr/iframe/external_libs.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://i.realytics.io/tc.js?cb=1562792356310",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn-eu.realytics.net/realytics-1.2.min.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=ggl&url=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dweborama_dmp%26google_cm",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=appnexus&url=https%3A%2F%2Fsecure.adnxs.com%2Fgetuid%3Fhttps%3A%2F%2Fidsync.frontend.weborama.fr%2Fids%3Fkey%3Dappnexus_id%26value%3D%24UID",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=videology&url=https%3A//sync.tidaltv.com/genericusersync.ashx%3Fdpid%3D29",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=radiumone&url=https%3A%2F%2Frp.gwallet.com%2Fr1%2Fcm%2Fp79r1562792356327",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=tubemogul&url=https%3A%2F%2Frtd-tm.everesttech.net%2Fupi%2Fpid%2FI4EAHwnE%3Fredir%3Dhttps%253A%252F%252Fidsync.frontend.weborama.fr%252Fids%253Fkey%253Dtubemogul_id%2526value%253D%2524%257BUSER_ID%257D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=criteov2&url=https%3A%2F%2Fgum.criteo.com%2Fsync%3Fc%3D13%26a%3D1%26r%3D1%26u%3Dhttps%253A%252F%252Fidsync.frontend.weborama.fr%252Fids%253Fkey%253Dcriteov2_id%2526value%253D%2540USERID%2540",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=mediamath&url=https%3A%2F%2Fpixel.mathtag.com%2Fsync%2Fimg%3Fmt_exid%3D10014%26redir%3Dhttps%253A%252F%252Fidsync.frontend.weborama.fr%252Fids%253Fkey%253Dmediamath_id%2526value%253D%255BMM_UUID%255D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=smartadserver&url=https%3A%2F%2Fsync.smartadserver.com%2Fgetuid%3Furl%3Dhttps%253A%252F%252Fidsync.frontend.weborama.fr%252Fids%253Fkey%253Dsmartadserver_id%2526value%253D%255Bsas_uid%255D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://rd.frontend.weborama.fr/rd?key=acxiom&url=https%3a%2f%2fidsync.rlcdn.com%2f401736.gif%3fpartner_uid%3d%7bWEBO_CID%7d",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://rd.frontend.weborama.fr/rd?key=bigsea&url=https%3A%2F%2Fdx.bigsea.weborama.com%2Fcollect%3Fdsp_id%3D0%26eid%3D%7BWEBO_ID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=thetradedesk&url=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3D4n2tpwc%26ttd_tpi%3D1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=agkn&url=https%3A%2F%2Faa.agkn.com%2Fadscores%2Fg.pixel%3Fsid%3D9212297988%26puid%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=mailru&url=https%3A%2F%2Fad.mail.ru%2Fcm.gif%3Fp%3D68%26id%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=yandex&url=https%3A%2F%2Fan.yandex.ru%2Fmapuid%2Fdmpweborama%2F%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=cleverdata&url=https%3A%2F%2Fsync.1dmp.io%2Fpixel.gif%3Fcid%3Dd09744ff-2363-4c3d-b31e-dc5b975a10a3%26pid%3Daea6e9c9-4c5e-4476-b1c7-3dd347cae54c%26pid%3Dw%26uid%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=getintent&url=https%3A%2F%2Fpx.adhigh.net%2Fp%2Fcm%2Fweborama%3Fu%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=seedr&url=https%3A%2F%2Fstats.seedr.com%2Fnr%2Fsync%3Fdsp_id%3Dwbrm%26external_uid%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=rambler&url=https%3A%2F%2Fsync.rambler.ru%2Fset%3Fpartner_id%3Dab56d453-f95a-4cbc-97b3-1e30a8f95173%26id%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=yahoo&url=https%3A%2F%2Fcms.analytics.yahoo.com%2Fcms%3Fpartner_id%3DWEBMA%26gdpr%3Dfalse",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=tremelio&url=https%3A%2F%2Fsync-uid.leadplace.fr%2Fsync-uid.php%3Fpart%3Dweborama%26id%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=crm4d&url=https%3A%2F%2Fp.crm4d.com%2Femt%2Fsync%2Fweborama%3Fuid%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=relap&url=https%3A%2F%2Frelap.io%2Fpartners%2Fwbrmcs%3Fuid%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=hotwifi&url=https%3A%2F%2Fpxl.hot-wifi.ru%2Fp%3Ft%3DWeborama%26v%3D%7BWEBO_CID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=rakuten&url=https%3A%2F%2Fnxtck.com%2Fact.php%3Ftag%3D47577%26rawloc%3Dhttps%3A%2F%2Fidsync.frontend.weborama.fr%2Fids%3Fkey%3Drakuten%26value%3D{uuid}",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cr.frontend.weborama.fr/cr?key=zbo&url=https%3A%2F%2Fsync.zebestof.com%2Fsync%2Fweborama",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.com/pagead/1p-user-list/993136125/?random=1562792356262&cv=9&fst=1562788800000&num=1&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&fmt=3&cdct=2&is_vtc=1&random=3484394624&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.de/pagead/1p-user-list/993136125/?random=1562792356262&cv=9&fst=1562788800000&num=1&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&fmt=3&cdct=2&is_vtc=1&random=3484394624&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.com/pagead/1p-user-list/993136125/?random=1562792356275&cv=9&fst=1562788800000&num=1&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&fmt=3&cdct=2&is_vtc=1&random=1148802434&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.de/pagead/1p-user-list/993136125/?random=1562792356275&cv=9&fst=1562788800000&num=1&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&fmt=3&cdct=2&is_vtc=1&random=1148802434&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/seg?add=2491894:85&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/rpc/live.2.php?sid=4219&vuid=7a276105334fb6fff155a5d8f17d31b25d2651a3de462&dep=0&tpl=laposte2&lang=fr",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=weborama_dmp&google_cm",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://gum.criteo.com/sync?c=13&a=1&r=1&u=https%3A%2F%2Fidsync.frontend.weborama.fr%2Fids%3Fkey%3Dcriteov2_id%26value%3D%40USERID%40",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/getuid?https://idsync.frontend.weborama.fr/ids?key=appnexus_id&value=$UID",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://tp.realytics.io/sync/se/cnktYjRucTIzcDB8cnlfMjQzRTU0MDAtRUEzRi00MDczLUJCQjAtMjkwMkQ2QzFFOURGfA%3D%3D?ct=1&rt=0&u=https%3A%2F%2Fgroupelaposte.solution.weborama.fr%2Ffcgi-bin%2Fdispatch.fcgi%3Fg.bo%3DOK%26g.rn%3D970236%26a.A%3Dco%26a.si%3D322%26a.cp%3D1396%26a.ct%3Db%26da%3D1562792355%26g.ru%3D%26g.pu%3Dhttps%253A%2F%2Fwww.labanquepostale.fr%2F&r=https%3A%2F%2Fwww.labanquepostale.fr%2F&ts=1562792356445",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tradelab.fr/fseg/2135.js?add=12608265",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://its.tradelab.fr/?type=tp&advid=2602146&uuid=1066495624955824685&adata=%7B%22c%22%3A%7B%22ref_url%22%3A%22%22%2C%22ref_ts%22%3A1562792356%2C%22page_url%22%3A%22www.labanquepostale.fr%2F%22%2C%22dm%22%3A%22www.labanquepostale.fr%22%7D%2C%22v%22%3A%7B%22vis_cnt%22%3A1%2C%22frst_vis_ts%22%3A1562792356%2C%22prev_vis_ts%22%3A1562792356%2C%22curr_vis_ts%22%3A1562792356%2C%22total_page_cnt%22%3A1%2C%22prev_page_cnt%22%3A1%2C%22curr_page_cnt%22%3A1%7D%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://dx.bigsea.weborama.com/collect?dsp_id=0&eid=xuE2Y31E8qTG",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://idsync.rlcdn.com/401736.gif?partner_uid=oG34zWe6wFTkC4qFelinie",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://wam-google.solution.weborama.fr/pixel?google_gid=CAESED5k4XDsgoRxfpHXhCRG6FM&google_cver=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tradelab.fr/conv/991000.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/js/dist/common.js?version=1562317634",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.com/pagead/1p-user-list/993136125/?random=1562792356270&cv=9&fst=1562788800000&num=1&bg=ffffff&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6q1&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&fmt=3&cdct=2&is_vtc=1&random=1429031731&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.de/pagead/1p-user-list/993136125/?random=1562792356270&cv=9&fst=1562788800000&num=1&bg=ffffff&guid=ON&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&gtm=2oa6q1&sendb=1&data=event%3Dgtag.config&frm=0&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&tiba=La%20Banque%20Postale%20-%20compte%20bancaire%20en%20ligne%20-%20Banque%20%E2%80%93%20La%20Banque%20Postale&async=1&fmt=3&cdct=2&is_vtc=1&random=1429031731&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://its.tradelab.fr/?type=convr&x=1&cdata=%7B%22a%22%3A991000%2C%22l%22%3A%5B6129654%2C6129670%2C6129677%2C6129705%2C6140244%2C6140246%2C6140363%2C6141029%2C6205745%2C6205752%2C6205755%2C6205762%2C6220830%2C8124214%2C8124594%2C8124968%2C8124973%2C8125344%2C8141760%2C8141763%2C8141816%2C8141850%2C8141875%2C8141880%2C8141931%2C8141938%2C8176847%2C8176869%2C8176878%2C8178278%2C8178332%2C8217168%2C8239623%2C8245529%2C8245533%2C8245537%2C8245540%2C8260100%5D%2C%22i%22%3A1%2C%22c%22%3A7%2C%22t%22%3A%22h%22%2C%22m%22%3A%22null%22%2C%22vi%22%3A0%2C%22vc%22%3A0%2C%22hf%22%3A0%2C%22x%22%3A%7B%7D%7D&advid=2602146&xur=www.labanquepostale.fr%2F&adata=%7B%22c%22%3A%7B%22ref_url%22%3A%22%22%2C%22ref_ts%22%3A1562792356%2C%22page_url%22%3A%22www.labanquepostale.fr%2F%22%2C%22dm%22%3A%22www.labanquepostale.fr%22%7D%2C%22v%22%3A%7B%22vis_cnt%22%3A1%2C%22frst_vis_ts%22%3A1562792356%2C%22prev_vis_ts%22%3A1562792356%2C%22curr_vis_ts%22%3A1562792356%2C%22total_page_cnt%22%3A1%2C%22prev_page_cnt%22%3A1%2C%22curr_page_cnt%22%3A1%7D%7D&uuid=1066495624955824685",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/px?id=991000&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/seg?add=12608265&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://its.tradelab.fr/?type=fseg&uuid2=1066495624955824685&sid=12608265&val=undefined&fun=2135&step=1&siev=12608262&fp=0&advid=2602146&isregen=0&ua=Mozilla%252F5.0%2520(X11%253B%2520Linux%2520x86_64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F69.0.3497.100%2520Safari%252F537.36&ur=https%253A%252F%252Fwww.labanquepostale.fr%252F&adata=%7B%22c%22%3A%7B%22ref_url%22%3A%22%22%2C%22ref_ts%22%3A1562792356%2C%22page_url%22%3A%22www.labanquepostale.fr%2F%22%2C%22dm%22%3A%22www.labanquepostale.fr%22%7D%2C%22v%22%3A%7B%22vis_cnt%22%3A1%2C%22frst_vis_ts%22%3A1562792356%2C%22prev_vis_ts%22%3A1562792356%2C%22curr_vis_ts%22%3A1562792356%2C%22total_page_cnt%22%3A1%2C%22prev_page_cnt%22%3A1%2C%22curr_page_cnt%22%3A1%7D%7D&uuid=1066495624955824685",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://idsync.frontend.weborama.fr/ids?key=appnexus_id&value=1066495624955824685",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://gum.criteo.com/sync?s=1&c=13&a=1&r=1&u=https%3A%2F%2Fidsync.frontend.weborama.fr%2Fids%3Fkey%3Dcriteov2_id%26value%3D%40USERID%40",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=tradelab_dmp&google_cm",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://idsync.frontend.weborama.fr/ids?key=criteov2_id&value=4-yE0phakO-UyG-dGa4Esi4KmvNUa4kY",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/js/dist/targeting.js?version=1562317634",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://api.realytics.io/event/track?cb=1562792356445",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://its.tradelab.fr/?type=tlsync_dbm&google_gid=CAESECK0lmBzJqfuS0uAPf10svI&google_cver=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://api.realytics.io/event/track?cb=1562792356449",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://wam-google.solution.weborama.fr/fcgi-bin/dispatch.fcgi?d.A=tp&d.k=google_id&d.v=CAESED5k4XDsgoRxfpHXhCRG6FM",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cstatic.weborama.fr/weborama/images/transp.gif",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fstatic.iadvize.com/js/dist/tpl/laposte2.js?version=1562758906",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://dx.bigsea.weborama.com/collect?dsp_id=0&eid=xuE2Y31E8qTG&bounced=1&rn=107665",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://fstatic.iadvize.com/locales/HA_839_4219.json",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/tro.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://px.ads.linkedin.com/collect/?time=1562792356723&pid=633540&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&fmt=js&s=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/rpc/referrer.php?s=4219&u=7a276105334fb6fff155a5d8f17d31b25d2651a3de462&get=&random=1562792356758",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.mmtro.com/seg/6545227.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/trojs/6545227-27ab63cf40b61ceb2e41f503aeaf4393/63bb0350-aaf5-401e-9431-0d0afde2b10d/63bb0350-aaf5-401e-9431-0d0afde2b10d/exec.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/p?tagid=6545227-27ab63cf40b61ceb2e41f503aeaf4393&r1=63bb0350-aaf5-401e-9431-0d0afde2b10d&vruid=63bb0350-aaf5-401e-9431-0d0afde2b10d&rtgxiti_xtpage=particulier&rtgpg=&rtgsearch=&rtgsearchid=&rtgnew=1&trossion=1562792356_1800_1__63bb0350-aaf5-401e-9431-0d0afde2b10d:1562792356_1562792356_1&u=https%3A%2F%2Fwww.labanquepostale.fr%2F&v=5a6ef8c560436052e64c99ef_0&rnd=323635126",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.googletagmanager.com/gtag/js?id=DC-6927651",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://seg.mmtro.com/ruid/63bb0350-aaf5-401e-9431-0d0afde2b10d",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/860796799/?mmrnd=1552711077&guid=ON&script=0",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/px?mmrnd=1237539515&id=948114&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://aax-eu.amazon-adsystem.com/s/iui3?mmrnd=207058600&d=forester-did&ex-fargs=%3Fid%3D7911bdb6-6018-e974-45e7-d63e4bf5dd53%26type%3D81%26m%3D5&ex-fch=416613&ex-src=https://www.labanquepostale.fr&ex-hargs=v%3D1.0%3Bc%3D6313166700402%3Bp%3D7911BDB6-6018-E974-45E7-D63E4BF5DD53",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/seg?mmrnd=184710600&add=854754,857039,1949609,4619616,11208616&remove=",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://seg.mmtro.com/s?mmrnd=1155485236&add=1208,1544&remove=",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/seg?add=798876&redir=https%3A%2F%2Fsecure.adnxs.com%2Fgetuid%3Fhttps%3A%2F%2Fmmtro.com%2Fs%3Ftagid%3D6545227-27ab63cf40b61ceb2e41f503aeaf4393%26r1%3D63bb0350-aaf5-401e-9431-0d0afde2b10d%26vruid%3D63bb0350-aaf5-401e-9431-0d0afde2b10d%26partner_name%3Dappnexus%26partner_uid%3D%24UID",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cm.g.doubleclick.net/pixel?google_nid=1000mercis_dmp&google_cm&google_sc&tagid=6545227-27ab63cf40b61ceb2e41f503aeaf4393&r1=63bb0350-aaf5-401e-9431-0d0afde2b10d&vruid=63bb0350-aaf5-401e-9431-0d0afde2b10d",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://aimfar.solution.weborama.fr/fcgi-bin/dispatch.fcgi?d.A=rd&d.k=1000mercis&d.u=https%3A%2F%2Fmmtro.com%2Fs%3Ftagid%3D6545227-27ab63cf40b61ceb2e41f503aeaf4393%26r1%3D63bb0350-aaf5-401e-9431-0d0afde2b10d%26vruid%3D63bb0350-aaf5-401e-9431-0d0afde2b10d%26partner_name%3Dweborama%26partner_uid%3D%7BWEBO_ID%7D",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://6927651.fls.doubleclick.net/activityi;src=6927651;type=invmedia;cat=laban000;ord=2097751354130;gtm=2oa6q1;auiddc=1385886333.1562792357;~oref=https%3A%2F%2Fwww.labanquepostale.fr%2F?",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://px.ads.linkedin.com/collect/?time=1562792356723&pid=633540&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&fmt=js&s=1&cookiesTest=true",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/s?tagid=6545227-27ab63cf40b61ceb2e41f503aeaf4393&r1=63bb0350-aaf5-401e-9431-0d0afde2b10d&vruid=63bb0350-aaf5-401e-9431-0d0afde2b10d&google_gid=CAESEGKm2Jh9q_ZrQv2LwDUHfNw&google_cver=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://api.iadvize.com/engagement/targeted-visitors/triggered-rules?platform=ha",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/getuid?https://mmtro.com/s?tagid=6545227-27ab63cf40b61ceb2e41f503aeaf4393&r1=63bb0350-aaf5-401e-9431-0d0afde2b10d&vruid=63bb0350-aaf5-401e-9431-0d0afde2b10d&partner_name=appnexus&partner_uid=$UID",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/s?tagid=6545227-27ab63cf40b61ceb2e41f503aeaf4393&r1=63bb0350-aaf5-401e-9431-0d0afde2b10d&vruid=63bb0350-aaf5-401e-9431-0d0afde2b10d&partner_name=appnexus&partner_uid=1066495624955824685",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://6927651.fls.doubleclick.net/activityi;dc_pre=CMPir5qfq-MCFQKgewod4JcN3w;src=6927651;type=invmedia;cat=laban000;ord=2097751354130;gtm=2oa6q1;auiddc=1385886333.1562792357;~oref=https%3A%2F%2Fwww.labanquepostale.fr%2F?",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/px?mmrnd=1784807655&id=1089165&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/seg?mmrnd=1036807165&add=17290013&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/865380569/?mmrnd=336219322&label=iToCCJqU2XkQ2dHSnAM&amp;guid=ON&amp;script=0",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/s?tagid=6545227-27ab63cf40b61ceb2e41f503aeaf4393&r1=63bb0350-aaf5-401e-9431-0d0afde2b10d&vruid=63bb0350-aaf5-401e-9431-0d0afde2b10d&partner_name=weborama&partner_uid=xuE2Y31E8qTG",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.googleadservices.com/pagead/conversion.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CMPir5qfq-MCFQKgewod4JcN3w;src=6927651;type=invmedia;cat=laban000;ord=2097751354130;gtm=2oa6q1;auiddc=*;~oref=https%3A%2F%2Fwww.labanquepostale.fr%2F",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.com/pagead/1p-user-list/860796799/?guid=ON&script=0&cdct=2&is_vtc=1&random=729499174",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://api.iadvize.com/engagement/targeted-visitors/triggered-rules?platform=ha",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.com/pagead/1p-user-list/865380569/?label=iToCCJqU2XkQ2dHSnAM&cdct=2&is_vtc=1&random=1184038106",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.googleadservices.com/pagead/conversion/852773421/?random=1562792357088&cv=9&fst=1562792357088&num=1&label=Hio2CMbqvosBEK2U0ZYD&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https%3A%2F%2F6927651.fls.doubleclick.net%2Factivityi%3Bdc_pre%3DCMPir5qfq-MCFQKgewod4JcN3w%3Bsrc%3D6927651%3Btype%3Dinvmedia%3Bcat%3Dlaban000%3Bord%3D2097751354130%3Bgtm%3D2oa6q1%3Bauiddc%3D1385886333.1562792357%3B~oref%3Dhttps%253A%252F%252Fwww.labanquepostale.fr%252F%3F&ref=https%3A%2F%2Fwww.labanquepostale.fr%2F&rfmt=3&fmt=4",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.de/pagead/1p-user-list/860796799/?guid=ON&script=0&cdct=2&is_vtc=1&random=729499174&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.de/pagead/1p-user-list/865380569/?label=iToCCJqU2XkQ2dHSnAM&cdct=2&is_vtc=1&random=1184038106&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://privacy.commander1.com/privacy-consent/?id_tc=4&site=2623&version=001&id_privacy=5&privacy_action=1&type_action=browse&list_categories=ALL&tcpid=119732059151006778806&tc_optout=0&rand=0.7999780360780961",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/852773421/?random=1818357163&cv=9&fst=*&num=1&label=Hio2CMbqvosBEK2U0ZYD&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https://6927651.fls.doubleclick.net/activityi%3Bdc_pre%3DCMPir5qfq-MCFQKgewod4JcN3w%3Bsrc%3D6927651%3Btype%3Dinvmedia%3Bcat%3Dlaban000%3Bord%3D2097751354130%3Bgtm%3D2oa6q1%3Bauiddc%3D1385886333.1562792357%3B~oref%3Dhttps%253A%252F%252Fwww.labanquepostale.fr%252F%3F&ref=https://www.labanquepostale.fr/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&ocp_id=pVEmXZ2eBpWi-gaQuqrQCw&crd=&gtd=",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.linkedin.com/px/li_sync?redirect=https%3A%2F%2Fpx.ads.linkedin.com%2Fcollect%2F%3Ftime%3D1562792356723%26pid%3D633540%26url%3Dhttps%253A%252F%252Fwww.labanquepostale.fr%252F%26fmt%3Djs%26s%3D1%26cookiesTest%3Dtrue%26liSync%3Dtrue",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://aax-eu.amazon-adsystem.com/s/iui3?mmrnd=207058600&d=forester-did&ex-fargs=%3Fid%3D7911bdb6-6018-e974-45e7-d63e4bf5dd53%26type%3D81%26m%3D5&ex-fch=416613&ex-src=https://www.labanquepostale.fr&ex-hargs=v%3D1.0%3Bc%3D6313166700402%3Bp%3D7911BDB6-6018-E974-45E7-D63E4BF5DD53&dcc=t",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.com/pagead/1p-conversion/852773421/?random=1818357163&cv=9&fst=*&num=1&label=Hio2CMbqvosBEK2U0ZYD&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https://6927651.fls.doubleclick.net/activityi%3Bdc_pre%3DCMPir5qfq-MCFQKgewod4JcN3w%3Bsrc%3D6927651%3Btype%3Dinvmedia%3Bcat%3Dlaban000%3Bord%3D2097751354130%3Bgtm%3D2oa6q1%3Bauiddc%3D1385886333.1562792357%3B~oref%3Dhttps%253A%252F%252Fwww.labanquepostale.fr%252F%3F&ref=https://www.labanquepostale.fr/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&gtd=&cdct=2&is_vtc=1&ocp_id=pVEmXZ2eBpWi-gaQuqrQCw&random=2451449468&resp=GooglemKTybQhCsO",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://www.google.de/pagead/1p-conversion/852773421/?random=1818357163&cv=9&fst=*&num=1&label=Hio2CMbqvosBEK2U0ZYD&guid=ON&resp=GooglemKTybQhCsO&u_h=1080&u_w=1920&u_ah=1080&u_aw=1920&u_cd=24&u_his=2&u_tz=0&u_java=false&u_nplug=0&u_nmime=0&sendb=1&frm=2&url=https://6927651.fls.doubleclick.net/activityi%3Bdc_pre%3DCMPir5qfq-MCFQKgewod4JcN3w%3Bsrc%3D6927651%3Btype%3Dinvmedia%3Bcat%3Dlaban000%3Bord%3D2097751354130%3Bgtm%3D2oa6q1%3Bauiddc%3D1385886333.1562792357%3B~oref%3Dhttps%253A%252F%252Fwww.labanquepostale.fr%252F%3F&ref=https://www.labanquepostale.fr/&fmt=3&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&crd=&gtd=&cdct=2&is_vtc=1&ocp_id=pVEmXZ2eBpWi-gaQuqrQCw&random=2451449468&resp=GooglemKTybQhCsO&ipr=y",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://px.ads.linkedin.com/collect/?time=1562792356723&pid=633540&url=https%3A%2F%2Fwww.labanquepostale.fr%2F&fmt=js&s=1&cookiesTest=true&liSync=true",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/rpc/jsonstore.php?sid=4219&u=7a276105334fb6fff155a5d8f17d31b25d2651a3de462&data=%7B%22va_estimate%22%3A%22ON%22%2C%22va_scoring%22%3A1%7D&callback=jQuery22406858557870804718_1562792356558&_=1562792356559",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/engagement/live/events",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://halc.iadvize.com/engagement/live/events",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/i?tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&rtgzid=1938&idc=102209&rtgbanid=2422&rtgformat=&rtgemplacement_grille=0&rtgemplacement_push=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/i?tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&rtgzid=1939&idc=102191&rtgbanid=2420&rtgformat=&rtgemplacement_grille=0&rtgemplacement_push=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/i?tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&rtgzid=1929&idc=100265&rtgbanid=2448&rtgformat=&rtgemplacement_grille=0&rtgemplacement_push=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/i?tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&rtgzid=1928&idc=99995&rtgbanid=2323&rtgformat=&rtgemplacement_grille=0&rtgemplacement_push=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://mmtro.com/i?tagid=6550672-db22507a7e49c14c1eb9aa1ea269b70a&rtgzid=1936&idc=102182&rtgbanid=2419&rtgformat=&rtgemplacement_grille=0&rtgemplacement_push=1",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tradelab.fr/fseg/2135.js?add=12608266",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://cdn.tradelab.fr/conv/991001.js",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://its.tradelab.fr/?type=convr&x=1&cdata=%7B%22a%22%3A991001%2C%22l%22%3A%5B6129654%2C6129670%2C6129677%2C6129705%2C6140244%2C6140246%2C6140363%2C6141029%2C6205745%2C6205752%2C6205755%2C6205762%2C6220830%2C8124214%2C8124594%2C8124968%2C8124973%2C8125344%2C8141760%2C8141763%2C8141816%2C8141850%2C8141875%2C8141880%2C8141931%2C8141938%2C8176847%2C8176869%2C8176878%2C8239623%2C8245529%2C8245533%2C8245537%2C8245540%2C8260100%5D%2C%22i%22%3A1%2C%22c%22%3A7%2C%22t%22%3A%22h%22%2C%22m%22%3A%22null%22%2C%22vi%22%3A0%2C%22vc%22%3A0%2C%22hf%22%3A0%2C%22x%22%3A%7B%7D%7D&advid=2602146&xur=www.labanquepostale.fr%2F&adata=%7B%22c%22%3A%7B%22ref_url%22%3A%22%22%2C%22ref_ts%22%3A1562792356%2C%22page_url%22%3A%22www.labanquepostale.fr%2F%22%2C%22dm%22%3A%22www.labanquepostale.fr%22%7D%2C%22v%22%3A%7B%22vis_cnt%22%3A1%2C%22frst_vis_ts%22%3A1562792356%2C%22prev_vis_ts%22%3A1562792356%2C%22curr_vis_ts%22%3A1562792356%2C%22total_page_cnt%22%3A1%2C%22prev_page_cnt%22%3A1%2C%22curr_page_cnt%22%3A1%7D%7D&uuid=1066495624955824685",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/px?id=991001&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://secure.adnxs.com/seg?add=12608266&t=2",
+      "referrer": null,
+      "method": null
+    },
+    {
+      "headers": null,
+      "url": "https://its.tradelab.fr/?type=fseg&uuid2=1066495624955824685&sid=12608266&val=undefined&fun=2135&step=2&siev=12608263&fp=0&advid=2602146&isregen=0&ua=Mozilla%252F5.0%2520(X11%253B%2520Linux%2520x86_64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F69.0.3497.100%2520Safari%252F537.36&ur=https%253A%252F%252Fwww.labanquepostale.fr%252F&adata=%7B%22c%22%3A%7B%22ref_url%22%3A%22%22%2C%22ref_ts%22%3A1562792356%2C%22page_url%22%3A%22www.labanquepostale.fr%2F%22%2C%22dm%22%3A%22www.labanquepostale.fr%22%7D%2C%22v%22%3A%7B%22vis_cnt%22%3A1%2C%22frst_vis_ts%22%3A1562792356%2C%22prev_vis_ts%22%3A1562792356%2C%22curr_vis_ts%22%3A1562792356%2C%22total_page_cnt%22%3A1%2C%22prev_page_cnt%22%3A1%2C%22curr_page_cnt%22%3A1%7D%7D&uuid=1066495624955824685",
+      "referrer": null,
+      "method": null
+    }
+  ],
+  "mx_has_protocol_tls1_2": true,
+  "redirected_to_https": true,
+  "mx_has_protocol_tls1_3": false,
+  "leaks": [],
+  "web_cert_trusted_reason": "",
+  "mx_has_ssl": true,
+  "third_parties": [
+    "4344926.fls.doubleclick.net",
+    "6927651.fls.doubleclick.net",
+    "8376301.fls.doubleclick.net",
+    "aax-eu.amazon-adsystem.com",
+    "adservice.google.com",
+    "aimfar.solution.weborama.fr",
+    "api.dmcdn.net",
+    "api.iadvize.com",
+    "api.realytics.io",
+    "banquepostale.inbenta.com",
+    "bat.bing.com",
+    "bsd.frontend.weborama.fr",
+    "cdn-eu.realytics.net",
+    "cdn.mmtro.com",
+    "cdn.tagcommander.com",
+    "cdn.tradelab.fr",
+    "cm.g.doubleclick.net",
+    "cr.frontend.weborama.fr",
+    "cstatic.weborama.fr",
+    "d1typd0v0mfr0u.cloudfront.net",
+    "dx.bigsea.weborama.com",
+    "engage.commander1.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "fstatic.iadvize.com",
+    "googleads.g.doubleclick.net",
+    "groupelaposte.solution.weborama.fr",
+    "groupelapostefranalytics.solution.weborama.fr",
+    "gum.criteo.com",
+    "halc.iadvize.com",
+    "i.realytics.io",
+    "ib.adnxs.com",
+    "idsync.frontend.weborama.fr",
+    "idsync.rlcdn.com",
+    "its.tradelab.fr",
+    "labanquepostale.commander1.com",
+    "logs.xiti.com",
+    "mmtro.com",
+    "privacy.commander1.com",
+    "px.ads.linkedin.com",
+    "rd.frontend.weborama.fr",
+    "s.ytimg.com",
+    "secure.adnxs.com",
+    "seg.mmtro.com",
+    "snap.licdn.com",
+    "tgt.mmtro.com",
+    "tp.realytics.io",
+    "wam-google.solution.weborama.fr",
+    "wamfactory.solution.weborama.fr",
+    "www.google.com",
+    "www.google.de",
+    "www.googleadservices.com",
+    "www.googletagmanager.com",
+    "www.linkedin.com",
+    "www.youtube.com"
+  ],
+  "mx_ciphers": {},
+  "cookies_count": 59,
+  "web_has_protocol_tls1": true,
+  "responses": null
+}
