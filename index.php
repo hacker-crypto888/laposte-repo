@@ -281,3 +281,4 @@ echo "<pre>my 10 latest heroku releases in<a href='releases.php'>json</a> format
 <pre><a href="https://tradelab.com/en/home/">iadvize / tradelab</a></pre>
 <pre><a href="https://www.lemagit.fr/etude/La-Poste-industrialise-ses-deploiements-pour-tester-plus-rapidement-ses-idees">vm laposte</a></pre>
 <pre><a href="https://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/">bash</a></pre>
+<pre><a href="https://www.laposte.fr/votre-vie-digitale/conseils-pratiques/le-cloud-la-tete-et-l-informatique-dans-les-nuages">cloud digiposte</a>,<a href="https://www.lemagit.fr/etude/Le-pole-Colis-de-la-Poste-accelere-sa-BI-avec-SAP-HANA">sap hana</a>,<a href="https://mariadb.com/newsroom/press-releases/skysql-training-creates-future-mysql-database-cloud-experts/">mysql skysql mariadb</a></pre>
