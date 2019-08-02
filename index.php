@@ -280,3 +280,4 @@ echo "<pre>my 10 latest heroku releases in<a href='releases.php'>json</a> format
 <pre>http://api.comparateur.laposte.fr/ (google)</pre>
 <pre><a href="https://tradelab.com/en/home/">iadvize / tradelab</a></pre>
 <pre><a href="https://www.lemagit.fr/etude/La-Poste-industrialise-ses-deploiements-pour-tester-plus-rapidement-ses-idees">vm laposte</a></pre>
+<pre><a href="https://www.cyberciti.biz/faq/howto-recursively-search-all-files-for-words/">bash</a></pre>
