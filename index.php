@@ -287,3 +287,4 @@ echo "<pre>my 10 latest heroku releases in<a href='releases.php'>json</a> format
 <pre><a href="https://mariadb.com/resources/blog/releasing-connector-node-js-what-does-it-mean/">mean</a>,<a href="https://dzone.com/articles/json-with-mariadb-platform-what-is-json-and-why-us">json</a></pre>
 <pre><a href="https://www.yellowduck.be/posts/compile-using-a-docker-container/">go</a></pre>
 <pre><a href="https://wiki.qt.io/Building_Qt_5_from_Git/fr">qt</a></pre>
+<pre><a href="https://github.com/karma-runner/karma-phantomjs-launcher/issues/126">js</a>,<a href="errorjs.txt">error</a></pre>
