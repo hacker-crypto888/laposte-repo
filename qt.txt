@@ -10,3 +10,5 @@ https://wiki.qt.io/Building_Qt_5_from_Git/fr
 https://github.com/chase-moskal/webp-hero
 
 https://groups.google.com/forum/#!topic/phantomjs/AefOuwkgBh0
+
+http://www.linuxfromscratch.org/lfs/view/development/chapter06/ninja.html
