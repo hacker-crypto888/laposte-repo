@@ -1,3 +1,5 @@
 https://wiki.qt.io/Building_Qt_5_from_Git/fr
 https://github.com/docker/docker-install docker git
 https://github.com/qtwebkit/qtwebkit
+
+https://github.com/bitnami/bitnami-docker-jenkins cloud
