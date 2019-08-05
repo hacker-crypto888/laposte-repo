@@ -4,3 +4,4 @@ https://github.com/qtwebkit/qtwebkit
 
 https://github.com/bitnami/bitnami-docker-jenkins cloud
 https://github.com/jenkinsci/docker-plugin
+https://linuxfr.org/users/purplepsycho/journaux/mettre-en-place-des-build-automatiques-avec-jenkins-et-docker git
