@@ -12,3 +12,8 @@ https://github.com/chase-moskal/webp-hero
 https://groups.google.com/forum/#!topic/phantomjs/AefOuwkgBh0
 
 http://www.linuxfromscratch.org/lfs/view/development/chapter06/ninja.html
+https://github.com/jenkinsci/docker
+https://github.com/Mirantis/docker-jenkins/blob/master/Dockerfile
+https://collabnix.com/5-minutes-to-continuous-integration-pipeline-using-docker-jenkins-github-on-play-with-docker-platform/
+https://github.com/jenkinsci/docker-plugin
+https://www.stratoscale.com/blog/devops/practical-devops-use-case-github-jenkins-docker/
