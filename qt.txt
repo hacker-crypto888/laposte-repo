@@ -1,0 +1,12 @@
+https://github.com/qtwebkit/qtwebkit/wiki/Building-QtWebKit-on-Linux
+https://github.com/Medium/phantomjs/issues/668
+https://groups.google.com/forum/#!topic/phantomjs/AefOuwkgBh0
+https://mesonbuild.com/Tutorial.html
+https://wiki.qt.io/Building_Qt_5_from_Git/fr
+
+https://github.com/qtwebkit/qtwebkit/wiki/Building-QtWebKit-on-Linux
+https://wiki.qt.io/Building_Qt_5_from_Git/fr
+
+https://github.com/chase-moskal/webp-hero
+
+https://groups.google.com/forum/#!topic/phantomjs/AefOuwkgBh0
