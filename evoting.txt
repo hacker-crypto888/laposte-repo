@@ -1,0 +1,1 @@
+https://gitlab.com/swisspost/evoting-solution/tree/master/source-code/online-voting-client-library
