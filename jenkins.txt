@@ -1,0 +1,3 @@
+https://www.infoworld.com/article/3239666/what-is-jenkins-the-ci-server-explained.html
+https://dzone.com/articles/how-to-install-jenkins-with-a-war-file
+mirrors.jenkins.io/war-stable/latest/jenkins.war
