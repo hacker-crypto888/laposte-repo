@@ -28,3 +28,7 @@ https://philpep.org/blog/integration-continue-avec-jenkins-et-docker
 https://stackify.com/guide-docker-java/
 https://towardsdatascience.com/learn-enough-docker-to-be-useful-1c40ea269fa8
 https://zapier.com/engineering/continuous-integration-jenkins-docker-github/
+
+docker 32-bit
+https://www.nirmata.com/2016/02/09/docker-daemon-for-x32-architectures/
+https://dzone.com/articles/docker-daemon-for-32-bit-architecture
