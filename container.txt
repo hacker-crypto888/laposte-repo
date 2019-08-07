@@ -32,3 +32,5 @@ https://zapier.com/engineering/continuous-integration-jenkins-docker-github/
 docker 32-bit
 https://www.nirmata.com/2016/02/09/docker-daemon-for-x32-architectures/
 https://dzone.com/articles/docker-daemon-for-32-bit-architecture
+
+https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image
