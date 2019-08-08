@@ -34,3 +34,17 @@ https://www.nirmata.com/2016/02/09/docker-daemon-for-x32-architectures/
 https://dzone.com/articles/docker-daemon-for-32-bit-architecture
 
 https://www.redhat.com/en/blog/introducing-red-hat-universal-base-image
+
+https://linuxcontainers.org/it/lxd/getting-started-cli/
+snap
+https://forum.snapcraft.io/t/snap-d-error-cannot-communicate-with-server-connection-refused/6093/4
+reenable main repo
+https://askubuntu.com/questions/1009944/snapd-is-unavailable-in-ubuntu-16-04
+enable universe repo
+https://fabianlee.org/2016/09/18/ubuntu-enabling-the-ubuntu-universe-repository/
+
+https://ubuntu.com/blog/lxd-on-debian-using-snapd
+https://discuss.linuxcontainers.org/t/comparing-lxd-vs-lxc/24
+https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1
+https://lxd.readthedocs.io/en/latest/#installing-lxd-from-packages
+
