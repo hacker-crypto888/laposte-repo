@@ -18,7 +18,13 @@ I'll use a chart to tell people about what features or software versions are sup
 | nginx           | :white_check_mark: |
 | mean            | :white_check_mark: |
 | lamp/lemp       | :x:                |
+| lamp/lemp       | :x:                |
 
 
+A second chart will tell people about what devices the application has and has not been adapted to.
 
-
+| Software         | Supported          | 
+| ---------------- | ------------------ |
+| iOS              | :white_check_mark: |
+| Android          | :white_check_mark: |
+| Computer browser | :white_check_mark: |
