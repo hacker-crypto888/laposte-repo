@@ -1,0 +1,15 @@
+https://www.tecmint.com/load-testing-web-servers-with-siege-benchmarking-tool/
+http://www.servermom.org/load-balancing-guide/
+https://site.elastichosts.com/blog/add-a-second-ha-cloud-load-balancer/
+https://landing.google.com/sre/sre-book/chapters/load-balancing-frontend/
+https://www.imperva.com/learn/availability/dns-load-balancing-failover/
+https://dyn.com/blog/how-dns-helps-with-high-availability/
+https://ns1.com/resources/dns-failover-basic-concepts-and-limitations
+https://www.linux.com/news/how-configure-low-cost-load-balanced-lamp-cluster
+https://www.plesk.com/blog/various/what-is-lamp-lamp-stack-basics-to-get-you-up-and-running-fast/
+
+https://serverfault.com/questions/880662/nginx-keeps-sending-requests-to-offline-upstream
+https://dzone.com/articles/its-high-time-to-say-goodbye-to-the-lamp-stack-and
+https://mobidev.biz/blog/backend_is_lamp_the_solution_for_you
+https://www.quora.com/What-is-the-front-end-for-the-LAMP-stack
+https://www.codecademy.com/forum_questions/52c93f45631fe92517005787
