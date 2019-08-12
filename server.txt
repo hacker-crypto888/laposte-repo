@@ -13,3 +13,20 @@ https://dzone.com/articles/its-high-time-to-say-goodbye-to-the-lamp-stack-and
 https://mobidev.biz/blog/backend_is_lamp_the_solution_for_you
 https://www.quora.com/What-is-the-front-end-for-the-LAMP-stack
 https://www.codecademy.com/forum_questions/52c93f45631fe92517005787
+https://css-tricks.com/what-does-it-mean-to-be-full-stack/
+http://www.logicrux.com/lamp-solution-stack/
+
+configuration du demarrage automatique de LAMP
+https://doc.ubuntu-fr.org/lamp#configuration_du_demarrage_automatique_de_lamp
+
+load performance testing
+https://devonblog.com/test-automation/client-side-performance-testing/
+https://blog.dataart.com/client-side-performance-testing/
+https://www.loadview-testing.com/load-testing-technologies/
+https://taligarsiel.com/ClientSidePerformance.html
+https://docs.newrelic.com/docs/browser/new-relic-browser/troubleshooting/app-server-requests-greatly-outnumber-browser-pageview-transactions
+
+XAMPP
+solution stack
+https://en.wikipedia.org/wiki/XAMPP
+https://en.wikipedia.org/wiki/List_of_Nginx%E2%80%93MySQL%E2%80%93PHP_packages
