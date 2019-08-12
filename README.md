@@ -18,7 +18,13 @@ I'll use a chart to tell people about what features or software versions are sup
 | nginx           | :white_check_mark: |
 | mean            | :white_check_mark: |
 | lamp/lemp       | :x:                |
-| lamp/lemp       | :x:                |
+| mysql           | :x:                |
+| mariadb         | :x:                |
+| PHP7            | :x:                |
+| apache2         | :x:                |
+| phpmyadmin      | :x:                |
+
+
 
 
 A second chart will tell people about what devices the application has and has not been adapted to.
