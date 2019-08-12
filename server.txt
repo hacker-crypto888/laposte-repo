@@ -31,3 +31,6 @@ solution stack
 https://en.wikipedia.org/wiki/XAMPP
 https://en.wikipedia.org/wiki/List_of_Nginx%E2%80%93MySQL%E2%80%93PHP_packages
 https://dinarys.com/blog/technology-stack-for-e-commerce-websites
+
+https://dev.to/k_penguin_sato/web-serverapplication-serverdatabase-server-d4k
+https://code.tutsplus.com/tutorials/get-started-building-your-blog-with-parsejs-working-with-data--cms-22047
