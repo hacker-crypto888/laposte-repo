@@ -43,3 +43,4 @@ https://fr.mirai.com/blog/securite-https-et-rendement-http2-des-elements-essenti
 https://www.bounteous.com/insights/2016/02/15/what-google-tag-manager-and-how-does-it-work-google-analytics/
 
 https://www.simoahava.com/analytics/run-google-tag-manager-google-analytics-local-files/
+https://kinsta.com/fr/blog/http3/
