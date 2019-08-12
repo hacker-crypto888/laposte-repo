@@ -45,3 +45,4 @@ https://www.bounteous.com/insights/2016/02/15/what-google-tag-manager-and-how-do
 https://www.simoahava.com/analytics/run-google-tag-manager-google-analytics-local-files/
 https://kinsta.com/fr/blog/http3/
 https://www.formations-analytics.com/guide-complet-configurer-google-analytics-google-tag-manager/
+https://blog.chrisworfolk.com/how-to-run-webpack-dev-server-with-php
