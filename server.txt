@@ -38,6 +38,8 @@ https://code.tutsplus.com/tutorials/get-started-building-your-blog-with-parsejs-
 https://stackoverflow.com/questions/48189241/web-analytics-gtm-and-http-2-push
 https://www.tunetheweb.com/blog/adding-controls-to-google-tag-manager/
 
+https://fr.mirai.com/blog/securite-https-et-rendement-http2-des-elements-essentiels-a-la-vente-directe/
+
 https://www.bounteous.com/insights/2016/02/15/what-google-tag-manager-and-how-does-it-work-google-analytics/
 
 https://www.simoahava.com/analytics/run-google-tag-manager-google-analytics-local-files/
