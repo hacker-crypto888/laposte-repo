@@ -34,3 +34,7 @@ https://dinarys.com/blog/technology-stack-for-e-commerce-websites
 
 https://dev.to/k_penguin_sato/web-serverapplication-serverdatabase-server-d4k
 https://code.tutsplus.com/tutorials/get-started-building-your-blog-with-parsejs-working-with-data--cms-22047
+
+https://stackoverflow.com/questions/48189241/web-analytics-gtm-and-http-2-push
+https://www.tunetheweb.com/blog/adding-controls-to-google-tag-manager/
+https://www.simoahava.com/analytics/run-google-tag-manager-google-analytics-local-files/
