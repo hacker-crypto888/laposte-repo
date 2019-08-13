@@ -59,3 +59,4 @@ appnexus linux tutorial
 https://wiki.appnexus.com/display/documentation/Linux+Tutorial
 https://wiki.appnexus.com/display/documentation/manage-server
 https://clearcode.cc/blog/cookie-syncing/
+https://www.adsquare.com/adsquares-data-is-now-available-via-appnexus/
