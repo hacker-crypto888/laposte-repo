@@ -35,3 +35,9 @@ https://docs.openx.com/Content/publishers/managingadunits.html
 Programmatic Ad Ecosystem
 https://www.linkedin.com/pulse/you-curious-understand-how-programmatic-ad-ecosystem-dsp-vivier/
 https://digitalthought.me/articles/digital-marketing/Programmatic-ad-bidding-cookie-sync.html#getStarted
+
+https://blog.getintent.com/scraping-through-wrappers-overview-of-header-bidding-solutions-implemented-by-publishers-1007bff01780
+https://fortune.com/2016/09/14/google-appnexus-adblock-plus/
+https://www.exchangewire.com/blog/2017/07/17/spo-everybody-talking/
+https://adtagmacros.com/what-is-safe-frame-safe-frame-container/
+https://ppc.land/marfeel-partners-with-appnexus-and-rubicon-implementing-server-to-server-header-bidding/
