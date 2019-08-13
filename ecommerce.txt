@@ -37,6 +37,7 @@ https://www.linkedin.com/pulse/you-curious-understand-how-programmatic-ad-ecosys
 https://digitalthought.me/articles/digital-marketing/Programmatic-ad-bidding-cookie-sync.html#getStarted
 
 https://blog.getintent.com/scraping-through-wrappers-overview-of-header-bidding-solutions-implemented-by-publishers-1007bff01780
+https://martechtoday.com/surprise-12-percent-header-bidding-196326
 https://fortune.com/2016/09/14/google-appnexus-adblock-plus/
 https://www.exchangewire.com/blog/2017/07/17/spo-everybody-talking/
 https://adtagmacros.com/what-is-safe-frame-safe-frame-container/
