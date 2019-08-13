@@ -52,6 +52,8 @@ data centers
 data scientists
 Xandr product documentation (formerly AppNexus documentation).
 https://wiki.appnexus.com/dashboard.action
+https://www.computerworld.com/article/2492915/python--big-data-s-secret-power-tool.html
+
 
 appnexus linux tutorial
 https://wiki.appnexus.com/display/documentation/Linux+Tutorial
