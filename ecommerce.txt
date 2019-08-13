@@ -19,3 +19,5 @@ https://wiki.appnexus.com/display/industry/Integrating+the+AppNexus+HTML5+Librar
 http://adops.dk/wp-content/uploads/2019/03/AppNexus-Clicktag-guide_en.pdf
 appnexus
 https://www.mobidea.com/academy/header-bidding/
+google analytics
+https://support.google.com/tagmanager/answer/6107169?hl=en
