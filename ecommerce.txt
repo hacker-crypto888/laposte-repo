@@ -31,3 +31,7 @@ https://www.appnexus.com/blog/checklist-choosing-right-header-bidding-container
 https://github.com/appnexus/appnexus-html5-lib/blob/master/docs/Walkthrough-For-Manually-Created-Ads.md
 https://www.theguardian.com/technology/2012/apr/23/adnxs-tracking-trackers-cookies-web-monitoring
 https://docs.openx.com/Content/publishers/managingadunits.html
+
+Programmatic Ad Ecosystem
+https://www.linkedin.com/pulse/you-curious-understand-how-programmatic-ad-ecosystem-dsp-vivier/
+https://digitalthought.me/articles/digital-marketing/Programmatic-ad-bidding-cookie-sync.html#getStarted
