@@ -4,3 +4,12 @@ https://thehostinginsider.net/what-is-hybris-4f2e029c7f6
 
 eCommerce websites from Europe
 https://shoprank.co/changelog?filters=%7B%22tech_added%22%3A%5B%22jQuery+Migrate%22%5D%2C%22created_day%22%3A%5B%222018-11-08%22%5D%7D&page=1
+swfobject e commerce
+https://wordpress.org/plugins/laposte-hexasmal/
+https://wpfr.net/support/sujet/tarifs-de-la-poste-et-colissimo/
+https://thewebminer.com/filter?t=YUI%20Doc
+ laposte.fr
+Les services de La Poste pour les particuliers : envoi et suivi de courrier et de colis, achats en ligne, tarifs postaux
+Technologies: YUI, Pinterest, Twitter Bootstrap, Apache, AT Internet XiTi, Varnish, Linkedin, Google Plus, Ink, Modernizr	
+
+https://www.g2.com/products/sap-hybris-commerce/features
