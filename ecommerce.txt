@@ -13,3 +13,5 @@ Les services de La Poste pour les particuliers : envoi et suivi de courrier et d
 Technologies: YUI, Pinterest, Twitter Bootstrap, Apache, AT Internet XiTi, Varnish, Linkedin, Google Plus, Ink, Modernizr	
 
 https://www.g2.com/products/sap-hybris-commerce/features
+click tags
+https://wiki.appnexus.com/display/industry/Integrating+the+AppNexus+HTML5+Library+with+Ads+Created+in+Google+Web+Designer
