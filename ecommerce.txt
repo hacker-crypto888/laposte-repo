@@ -21,3 +21,4 @@ appnexus
 https://www.mobidea.com/academy/header-bidding/
 google analytics
 https://support.google.com/tagmanager/answer/6107169?hl=en
+https://www.themarketingtechnologist.co/what-is-a-tag-manager/
