@@ -11,3 +11,4 @@ https://github.com/digiaonline/docker-nginx-php-node
 Lightweight container with Nginx 1.12 & PHP-FPM 7.1 Node.js based on Alpine Linux.
 
 https://github.com/maximevalette/nginx-php-nodejs
+https://www.redhat.com/sysadmin/setting-reverse-proxies-nginx
