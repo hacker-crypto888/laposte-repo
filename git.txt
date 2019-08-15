@@ -5,3 +5,9 @@ https://github.com/qtwebkit/qtwebkit
 https://github.com/bitnami/bitnami-docker-jenkins cloud
 https://github.com/jenkinsci/docker-plugin
 https://linuxfr.org/users/purplepsycho/journaux/mettre-en-place-des-build-automatiques-avec-jenkins-et-docker git
+Docker container for a web server running Nginx, PHP-FPM and Node.js
+
+https://github.com/digiaonline/docker-nginx-php-node
+Lightweight container with Nginx 1.12 & PHP-FPM 7.1 Node.js based on Alpine Linux.
+
+https://github.com/maximevalette/nginx-php-nodejs
