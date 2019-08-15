@@ -1,0 +1,9 @@
+Conflict with the Click Listener of Google Tag Manager · Issue #739 · jackmoore/colorbox
+https://github.com/jackmoore/colorbox/issues/739
+Tracking Fancybox Clicks in Google Analytics - YouMoz - Moz
+https://moz.com/ugc/tracking-fancybox-clicks-in-google-analytics
+YouTube Fancybox skips to full screen (Google Tag Manager issue) · Issue #1033 · fancyapps/fancybox
+https://github.com/fancyapps/fancyBox/issues/1033
+Tracking Youtube Videos via GTM in 2018 (Using New Built-In Youtube Trigger) | GlowMetrics
+https://www.glowmetrics.com/blog/tracking-youtube-videos-via-gtm-in-2018-using-new-built-in-youtube-trigger/
+https://norway-foods.com/mr1etz/nginx-reverse-proxy-401.html
