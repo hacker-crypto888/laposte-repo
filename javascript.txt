@@ -8,3 +8,4 @@ https://dev.to/pika/a-future-without-webpack-ago?utm_source=additional_box&utm_m
 https://areknawo.com/lodash-and-usefulness-of-utility-libraries/
 https://derickbailey.com/2016/09/12/does-es6-mean-the-end-of-underscore-lodash/
 https://www.simoahava.com/analytics/google-tag-manager-and-jquery/
+https://help.dreamhost.com/hc/en-us/articles/115004415628-Node-js-installing-packages
