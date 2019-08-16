@@ -1,0 +1,35 @@
+[02:44:32] ov-api.min.js 931.86 kB
+04 08 2019 02:44:32.402:WARN [PhantomJS 2.1.1 (Linux 0.0.0)]: Disconnected (1 times), because no message in 100000 ms.
+PhantomJS 2.1.1 (Linux 0.0.0) ERROR
+  Disconnected, because no message in 100000 ms.
+04 08 2019 02:44:32.409:INFO [karma]: Restarting PhantomJS 2.1.1 (Linux 0.0.0) (1 of 1 attempts)
+[02:44:32] Finished 'build-js' after 1.98 min
+[02:44:32] Finished 'build' after 3.18 min
+04 08 2019 02:46:12.418:WARN [launcher]: PhantomJS have not captured in 100000 ms, killing.
+04 08 2019 02:46:12.470:INFO [launcher]: Trying to start PhantomJS again (1/2).
+04 08 2019 02:47:52.478:WARN [launcher]: PhantomJS have not captured in 100000 ms, killing.
+04 08 2019 02:47:52.525:INFO [launcher]: Trying to start PhantomJS again (2/2).
+04 08 2019 02:49:32.622:WARN [launcher]: PhantomJS have not captured in 100000 ms, killing.
+04 08 2019 02:49:32.686:ERROR [launcher]: PhantomJS failed 2 times (timeout). Giving up.
+
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 0 of 0 DISCONNECTED (2 mins 24.142 secs / 0 secs)
+
+[02:49:32] 'unit-tests:all' errored after 8.18 min
+[02:49:32] Error: 1
+    at formatError (/home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/gulp-cli/lib/versioned/^3.7.0/formatError.js:17:8)
+    at Gulp.<anonymous> (/home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/gulp-cli/lib/versioned/^3.7.0/log/events.js:17:1)
+    at emitOne (events.js:17:8)
+    at Gulp.emit (events.js:17:7)
+    at Gulp.Orchestrator._emitTaskDone (/home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/orchestrator/index.js:17:8)
+    at /home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/orchestrator/index.js:17:18
+    at finish (/home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/orchestrator/lib/runTask.js:17:8)
+    at cb (/home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/orchestrator/lib/runTask.js:17:1)
+    at removeAllListeners (/home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/karma/lib/server.js:17:7)
+    at /home/marie/hproject/post/evoting-solution-master/source-code/online-voting-client-library/node_modules/karma/lib/server.js:17:8
+    at Server.close (net.js:17:8)
+    at Object.onceWrapper (events.js:17:18)
+    at emitNone (events.js:17:8)
+    at Server.emit (events.js:17:7)
+    at emitCloseNT (net.js:17:8)
+    at _combinedTickCallback (internal/process/next_tick.js:17:8)
+    at process._tickCallback (internal/process/next_tick.js:17:8)

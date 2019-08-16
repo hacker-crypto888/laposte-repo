@@ -1,0 +1,7 @@
+https://blog.arca-computing.fr/lodash-underscore-vs-es6/
+
+https://github.com/maciejczyzewski/bottomline
+
+https://twitter.com/srigi/status/747741401836826624
+https://github.com/lodash-php/lodash-php
+https://github.com/me-io/php-lodash

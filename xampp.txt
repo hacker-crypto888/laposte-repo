@@ -1,0 +1,15 @@
+https://docs.grabaperch.com/perch/building/servers/installing-a-local-server-with-xampp/
+https://metacpan.org/pod/distribution/DBD-MariaDB/lib/DBD/MariaDB/INSTALL.pod
+https://metacpan.org/pod/DBD::MariaDB
+https://mariadb.com/kb/en/library/perl-dbi/
+https://metacpan.org/pod/DBD::MariaDB::INSTALL
+https://www.trustradius.com/compare-products/google-tag-manager-vs-sap-commerce-cloud
+https://www.sap.com/cxworks/article/435954690/SAP_Commerce_Cloud_Architecture
+https://github.com/SAP/cloud-commerce-spartacus-storefront
+https://hybrismart.com/2019/05/30/sap-commerce-cloud-1905-is-released-what-is-new/
+https://hybrismart.com/2018/10/28/pwa-and-sap-spartacus-overview/
+https://webcache.googleusercontent.com/search?q=cache:xMrwFO66BzkJ:https://datavirtuality.com/connectors/join/sap-hybris/mariadb/+&cd=12&hl=en&ct=clnk&gl=fr&client=ubuntu
+
+security topics
+http://mbis.com.tr/wp-content/uploads/c2943dbc-b97c-0010-82c7-eda71af511fa.pdf
+http://www.dbta.com/Categories/Database-Security-332.aspx

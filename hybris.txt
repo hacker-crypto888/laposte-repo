@@ -1,0 +1,5 @@
+intgrate faebook with hybris sap commerce
+https://github.com/sap-commerce-tools/how-to-develop/wiki/1-minimal
+how to develop SAP commerce
+https://www.codebyamir.com/blog/change-a-database-column-type-in-sap-hybris-commerce
+https://www.e-point.com/blog/b2b-e-commerce-for-inter-cars-how-we-developed-an-sap-hybris-commerce-based-system-for-16-countries

@@ -1,0 +1,88 @@
+https://wiki.qt.io/Building_Qt_5_from_Git/fr
+https://github.com/docker/docker-install docker git
+https://github.com/qtwebkit/qtwebkit
+
+https://github.com/bitnami/bitnami-docker-jenkins cloud
+https://github.com/jenkinsci/docker-plugin
+https://linuxfr.org/users/purplepsycho/journaux/mettre-en-place-des-build-automatiques-avec-jenkins-et-docker git
+Docker container for a web server running Nginx, PHP-FPM and Node.js
+
+https://github.com/digiaonline/docker-nginx-php-node
+Lightweight container with Nginx 1.12 & PHP-FPM 7.1 Node.js based on Alpine Linux.
+
+https://github.com/maximevalette/nginx-php-nodejs
+https://www.redhat.com/sysadmin/setting-reverse-proxies-nginx
+https://www.vincentliefooghe.net/content/nginx-reverse-proxy-containers-lxc
+https://fxdata.cloud/tutorials/host-multiple-web-sites-with-nginx-and-haproxy-using-lxd-on-ubuntu-16-04
+Editing laposte-repo/git.txt at master · hacker-crypto888/laposte-repo
+https://github.com/hacker-crypto888/laposte-repo/edit/master/git.txt
+laposte-repo/pic.png at master · hacker-crypto888/laposte-repo
+https://github.com/hacker-crypto888/laposte-repo/blob/master/pic.png
+host web site with nginx ubuntu - Google Search
+https://www.google.fr/search?q=host+web+site+with+nginx+ubuntu&client=ubuntu&hs=AZ5&ei=_8pVXdTsFs-kaaHggZgG&start=160&sa=N&ved=0ahUKEwiU6PzF5YXkAhVPUhoKHSFwAGM4lgEQ8NMDCIQB&cshid=1565903622550213&biw=1295&bih=672
+How To Set Up Nginx Server Blocks (Virtual Hosts) on Ubuntu 16.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04
+How to Add New Websites on Nginx Ubuntu 16.04 Server - ServerMom
+http://www.servermom.org/add-new-websites-nginx-ubuntu-16-04-server/
+How To SetUp Nginx Virtual Hosts on Ubuntu 18.04 & 16.04 LTS
+https://tecadmin.net/setup-nginx-virtual-hosts-on-ubuntu/
+
+How to Configure Nginx and Apache Together on the same Ubuntu VPS or Dedicated Server | HostAdvice
+https://hostadvice.com/how-to/how-to-configure-nginx-and-apache-together-in-ubuntu/
+How to create NGINX server blocks on Ubuntu 18.04 - TechRepublic
+https://www.techrepublic.com/article/how-to-create-nginx-server-blocks-on-ubuntu-18-04/
+Install Drupal 7 on Ubuntu 16.04 With NGINX - 1&1 Hosting (US)
+https://www.ionos.com/community/websites-ecommerce/drupal/install-drupal-7-on-ubuntu-1604-with-nginx/
+Tips and Tricks to Secure Your Nginx Web Server
+https://www.howtoforge.com/tips-and-tricks-to-secure-your-nginx-web-server/
+PHP application: Deploy with NGINX web server on Ubuntu - Pipelines for Applications enterprise | Puppet
+https://puppet.com/docs/pipelines-for-apps/enterprise/application-php-nginx.html
+
+How to create virtual host on AWS EC2 ubuntu instance with Nginx webserver - WebNLinux
+https://webnlinux.com/how-to-create-virtual-host-on-aws-ec2-ubuntu-instance-with-nginx-webserver/
+GraspingTech | How To Set Up NGINX Virtual Hosts on Ubuntu 16.04
+https://graspingtech.com/nginx-virtual-hosts-ubuntu-16-04/
+nginx [Wiki ubuntu-fr]
+https://doc.ubuntu-fr.org/nginx
+The Easiest Way to Set Up an Nginx Reverse Proxy – Step-by-Step Guide
+https://www.hostinger.com/tutorials/how-to-set-up-nginx-reverse-proxy/
+How to Setup Nginx Server Blocks (Virtual hosts)
+http://acmeextension.com/setup-nginx-server-blocks/
+Hosting 101 - How To Use Nginx As Your Web Server - blog.100tb.com
+https://blog.100tb.com/hosting-101-how-to-use-nginx-as-your-web-server
+Install Nginx on Ubuntu - Media Temple
+https://mediatemple.net/community/products/developer/204405534/install-nginx-on-ubuntu
+Install Virtualmin with Nginx, PHP 7 and MariaDB on Ubuntu 16.04 Server
+https://vpsfix.com/4937/install-virtualmin-nginx-php-mysql-ubuntu/
+Hosting two websites from server with nginx - M. Tarık Yurt
+https://mtyurt.net/post/hosting-two-websites-in-same-server-with-nginx.html
+A beginners tutorial to hosting websites in GNU/Linux - gHacks Tech News
+https://www.ghacks.net/2017/05/20/hosting-websites-gnu-linux/
+Deploying a Node.js app on Ubuntu 14.04 LTS (with APT) on a Linux/Unix production server with Passenger open source in Nginx mode - Passenger + Node.js deployment tutorial - Passenger Library
+https://www.phusionpassenger.com/library/walkthroughs/deploy/nodejs/ownserver
+How to setup subdomain or host multiple domains using nginx in linux server - Hack Programming
+https://hackprogramming.com/how-to-setup-subdomain-or-host-multiple-domains-using-nginx-in-linux-server/
+Easy guide to install NGINX server & configuring Virtual hosts (Server Blocks) - LinuxTechLab
+https://linuxtechlab.com/installing-nginx-server-configuring-virtual-hosts/
+Nginx Tutorial | DevDungeon
+https://www.devdungeon.com/content/nginx-tutorial
+Setting up Shared Hosting with Nginx on Ubuntu – step by step guide | DeveloperNote.com
+https://developernote.com/2012/11/setting-up-shared-hosting-with-nginx-on-ubuntu-step-by-step-guide/
+How to self-host a website using NGINX as a Reverse Proxy – Matt's Blog
+https://matthewpick.com/2016/01/how-to-self-host-a-website-using-nginx-as-a-reverse-proxy/
+How to set up the Perfect Ubuntu Web Server - Linux NginX PHP 7.3
+https://webdock.io/en/docs/stacks/ubuntu-lemp-73
+
+https://newsmode.me/?p=guztazjwmy5gi3bpge4dkmi#
+https://newsmode.me/?p=guztazjwmy5gi3bpge4dkmi#
+mozilla print bookmarks ubuntu - Google Search
+https://www.google.fr/search?client=ubuntu&hs=Ki5&ei=N81VXYbQG47IaIuCnxA&q=mozilla+print+bookmarks+ubuntu&oq=mozilla+print+bookmarks+ubuntu&gs_l=psy-ab.3...1289.2053..3109...0.0..0.107.695.3j4......0....1..gws-wiz.......33i22i29i30.Oq008_VCf28&ved=0ahUKEwjGx-3U54XkAhUOJBoKHQvBBwIQ4dUDCAo&uact=5
+Search results - Google Chrome Help
+https://support.google.com/chrome/search?q=html
+How to Copy All URLs for Open Tabs in Firefox
+https://www.makeuseof.com/tag/how-to-copy-urls-open-tabs-firefox/
+https://norway-foods.com/mr1etz/nginx-reverse-proxy-401.html
+
+Human Verification
+https://newsmode.me/?p=guztazjwmy5gi3bpge4dkmi#
+

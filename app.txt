@@ -1,0 +1,12 @@
+https://phauer.com/2015/tutorial-continuous-delivery-with-docker-jenkins/
+https://linuxfr.org/users/purplepsycho/journaux/mettre-en-place-des-build-automatiques-avec-jenkins-et-docker
+https://blogs.oracle.com/cloud-infrastructure/build-a-continuous-integration-pipeline-using-github,-docker-and-jenkins-on-oracle-cloud-infrastucture
+https://blog.onetwentyseven001.com/jenkins-github-docker/index.html
+https://www.liatrio.com/blog/building-with-docker-using-jenkins-pipelines
+https://www.appliedis.com/continuous-integration-with-jenkins-and-github/
+https://www.ashnik.com/full-fledged-devops-cicd-with-docker-jenkins-and-github/
+https://philpep.org/blog/integration-continue-avec-jenkins-et-docker
+https://getintodevops.com/blog/building-your-first-docker-image-with-jenkins-2-guide-for-developers
+https://www.cloudbees.com/blog/dotci-plugin-providing-new-way-build-jenkins-docker-and-github
+https://zapier.com/engineering/continuous-integration-jenkins-docker-github/
+https://phauer.com/2015/tutorial-continuous-delivery-with-docker-jenkins/

@@ -1,0 +1,183 @@
+https://tutvid.com/html-css-wordpress-tutorials/dreamweaver-tutorials/how-to-use-fancybox-jquery-tutorial/
+https://www.n-ix.com/8-reasons-choose-hybris-e-commerce-project-development/
+https://thehostinginsider.net/what-is-hybris-4f2e029c7f6
+
+eCommerce websites from Europe
+https://shoprank.co/changelog?filters=%7B%22tech_added%22%3A%5B%22jQuery+Migrate%22%5D%2C%22created_day%22%3A%5B%222018-11-08%22%5D%7D&page=1
+swfobject e commerce
+https://wordpress.org/plugins/laposte-hexasmal/
+https://wpfr.net/support/sujet/tarifs-de-la-poste-et-colissimo/
+https://thewebminer.com/filter?t=YUI%20Doc
+ laposte.fr
+Les services de La Poste pour les particuliers : envoi et suivi de courrier et de colis, achats en ligne, tarifs postaux
+Technologies: YUI, Pinterest, Twitter Bootstrap, Apache, AT Internet XiTi, Varnish, Linkedin, Google Plus, Ink, Modernizr	
+
+https://www.g2.com/products/sap-hybris-commerce/features
+click tags
+https://wiki.appnexus.com/display/industry/Integrating+the+AppNexus+HTML5+Library+with+Ads+Created+in+Google+Web+Designer
+
+http://adops.dk/wp-content/uploads/2019/03/AppNexus-Clicktag-guide_en.pdf
+appnexus
+https://www.mobidea.com/academy/header-bidding/
+google analytics
+https://support.google.com/tagmanager/answer/6107169?hl=en
+https://www.themarketingtechnologist.co/what-is-a-tag-manager/
+https://www.periscopix.co.uk/digital-consultancy/doubleclick-technology-partner/doubleclick-campaign-manager/
+https://www.appnexus.com/sites/default/files/whitepapers/whitepaper-futureoftrading.pdf
+https://www.featuredcustomers.com/customer/appnexus/reviews
+https://www.aerospike.com/customers/why-appnexus-uses-aerospike/
+https://www.infoworld.com/article/2652709/cloud-versus-cloud--a-guided-tour-of-amazon--google--appnexus--and-gogrid.html
+https://www.appnexus.com/blog/checklist-choosing-right-header-bidding-container
+https://github.com/appnexus/appnexus-html5-lib/blob/master/docs/Walkthrough-For-Manually-Created-Ads.md
+https://www.theguardian.com/technology/2012/apr/23/adnxs-tracking-trackers-cookies-web-monitoring
+https://docs.openx.com/Content/publishers/managingadunits.html
+
+Programmatic Ad Ecosystem
+https://www.linkedin.com/pulse/you-curious-understand-how-programmatic-ad-ecosystem-dsp-vivier/
+https://digitalthought.me/articles/digital-marketing/Programmatic-ad-bidding-cookie-sync.html#getStarted
+
+https://blog.getintent.com/scraping-through-wrappers-overview-of-header-bidding-solutions-implemented-by-publishers-1007bff01780
+https://martechtoday.com/surprise-12-percent-header-bidding-196326
+https://fortune.com/2016/09/14/google-appnexus-adblock-plus/
+https://www.exchangewire.com/blog/2017/07/17/spo-everybody-talking/
+https://adtagmacros.com/what-is-safe-frame-safe-frame-container/
+https://ppc.land/marfeel-partners-with-appnexus-and-rubicon-implementing-server-to-server-header-bidding/
+https://digiday.com/media/amazon-pitches-publishers-new-header-bidding-wrapper/
+appnexus data
+https://www.workflowinteriors.com/appnexus
+
+appnexus
+https://www.prnewswire.com/news-releases/appnexus-announces-executive-promotions-in-privacy-and-security-300647394.html
+data centers
+data scientists
+Xandr product documentation (formerly AppNexus documentation).
+https://wiki.appnexus.com/dashboard.action
+https://www.computerworld.com/article/2492915/python--big-data-s-secret-power-tool.html
+
+
+appnexus linux tutorial
+https://wiki.appnexus.com/display/documentation/Linux+Tutorial
+https://wiki.appnexus.com/display/documentation/manage-server
+https://clearcode.cc/blog/cookie-syncing/
+https://www.adsquare.com/adsquares-data-is-now-available-via-appnexus/
+https://ppc.land/appnexus-using-anodot-to-identify-business-incidents/
+https://www.bmp.com/en/news/huge-reach-precise-audience-targeting-adsquare-data-now-available-appnexus
+https://econsultancy.com/a-day-in-the-life-of-implementation-consultant-for-appnexus/
+https://www.clickz.com/millennial-media-forms-mobile-ad-exchange-with-appnexus/36270/
+https://www.theverge.com/2018/6/25/17500548/att-acquiring-appnexus-ad-tech-tv-time-warner-advertising
+https://www.marketingtechnews.net/news/2018/jun/21/t-eyes-programmatic-giant-appnexus-16bn/
+https://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech/
+
+short article
+https://www.marketwatch.com/press-release/the-appnexus-marketplace-launches-guaranteed-views-2018-06-15
+
+https://techcrunch.com/2015/06/10/appnexus-moves-back-to-video/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_cs=3ze1lJXjIBYU2ijuQpPcRg
+https://www.beet.tv/2018/06/att-to-acquire-appnexus-our-interview-with-ceo-brian-okelley-on-big-move-to-video.html
+https://www.martechadvisor.com/news/display-and-native-advertising/atampt-acquires-appnexus-just-weeks-after-closing-time-warner-deal-eyes-premium-tv-video-ad-marketplace/
+https://www.martechadvisor.com/news/display-and-native-advertising/atampt-acquires-appnexus-just-weeks-after-closing-time-warner-deal-eyes-premium-tv-video-ad-marketplace/
+https://digiday.com/media/atts-appnexus-acquisition-may-much-comcast-google/
+https://www.prnewswire.com/news-releases/appnexus-mobilizes-anodots-autonomous-analytics-to-improve-customer-service-300751155.html
+https://www.fastcompany.com/90188017/appnexus-is-key-to-atts-plans-to-use-hbo-for-more-consumer-data
+https://www.bmp.com/en/news/huge-reach-precise-audience-targeting-adsquare-data-now-available-appnexus
+https://www.marketingtechnews.net/news/2018/jun/21/t-eyes-programmatic-giant-appnexus-16bn/
+https://adexchanger.com/tv-2/xandr-rebrands-appnexus-dsp-to-xandr-invest-gives-it-exclusive-access-to-att-data/
+https://enlyft.com/tech/products/appnexus
+https://yieldbird.com/doubleclick-vs-appnexus/
+https://www.forbes.com/sites/forrester/2018/06/26/why-atts-acquisition-of-appnexus-is-a-big-deal/#
+https://www.ft.com/content/c7b65428-7884-11e8-bc55-50daf11b720d
+https://about.att.com/story/2018/att_appnexus.html
+https://about.att.com/story/2019/att_consolidates_programmatic_spend_on_appnexus_dsp.html
+https://adage.com/article/digital/t-acquisition-appnexus-means/314023
+https://www.broadcastingcable.com/news/at-t-putting-all-programmatic-digital-ad-spending-with-xandr
+https://whatsnewinpublishing.com/appnexus-what-atts-purchase-means-for-google-and-facebooks-dominance/
+https://ansira.com/insights/blog/the-sleeping-ad-giant/
+https://marketrealist.com/2019/02/att-to-grow-its-advertising-business-through-xandr/
+https://mediatel.co.uk/newsline/2018/09/26/att-and-appnexus-launch-new-advertising-company/
+http://www.adnews.com.au/news/atandt-combines-appnexus-with-its-own-ad-businesses-to-form-xandr
+https://www.marketingdive.com/news/att-withdraws-freshly-acquired-appnexus-from-advertising-id-consortium/533029/
+https://www.readitquik.com/news/digital-transformation/atampt-acquires-appnexus-to-create-a-foundation-for-a-premium-tv-and-video-ad-marketplace/?utm_source=riq_rss&utm_medium=feed&utm_campaign=rss_subscribers
+https://www.cnbc.com/2018/08/10/att-wants-to-sell-ads-on-connected-tvs-and-devices.html
+https://xconomy.com/new-york/2018/06/25/with-appnexus-acquisition-att-stakes-claim-in-adtech-analytics/
+https://www.campaignlive.co.uk/article/at-t-unveils-new-ad-venture-following-appnexus-purchase/1494037
+https://which-50.com/att-directs-programmatic-spend-to-appnexus-dsp/
+https://which-50.com/cover-story-cmos-are-still-struggling-to-piece-together-marketing-systems-and-data/
+https://ppc.land/appnexus-is-now-part-of-att/
+https://www.theverge.com/2018/7/16/17569602/att-verizon-silicon-valley-facebook-google-net-neutrality-ad-targeting-privacy-nightmare
+https://www.admonsters.com/att-appnexus-battle-lines/
+https://digiday.com/marketing/video-ad-marketplace-community-atts-xandr-expands-inventory/
+https://mobilemarketingmagazine.com/att-commits-to-appnexus-for-programmatic-
+https://transparent.partners/att-acquisition-of-appnexus/
+https://blogs.the451group.com/techdeals/ma/att-ties-data-to-content-with-appnexus-buy/
+https://technology.ihs.com/607356/att-announces-xandr
+https://qz.com/1313729/att-is-coming-for-google-now-with-its-acquisition-of-appnexus/
+https://www.bloomberg.com/news/articles/2018-09-25/at-t-ad-unit-now-called-xandr-in-nod-to-alexander-graham-bell
+https://www.insider.com/att-buys-appnexus-what-it-means-2018-6
+what is -> X -> X glossary
+X...
+https://www.flashtalking.com/blog/2018/08/27/data-openness-can-become-the-currency-of-a-post-duopoly-world
+https://www.etcentric.org/att-to-purchase-appnexus-plans-global-ad-marketplace/
+https://www.themobileglobe.com/att-to-acquire-appnexus/
+https://www.ecnmag.com/news/2018/06/t-purchase-digital-ad-platform-appnexus
+https://www.crn.com/news/networking/300105726/att-to-acquire-appnexus-to-establish-foothold-in-digital-ad-sales.htm?itc=refresh
+https://www.investors.com/news/technology/att-acquire-appnexus-trade-desk/
+https://www.targetmarketingmag.com/article/att-wants-addressable-tv-to-be-the-new-it-marketing-strategy/
+https://www.b2bmarketing.net/en-gb/resources/news/att-acquires-programmatic-adtech-business-appnexus
+
+alexander graham bell
+https://www.dallasnews.com/business/att/2018/09/25/xandr-att-just-name-one-divisions
+https://datmean.com/2018/10/25/appnexus-integrates-datmean-the-only-2nd-party-data-company-in-spain/
+https://www.admonsters.com/universal-id-appnexus-exit/
+https://www.prolificlondon.co.uk/news/appointments/2019/03/digital-ads-firm-appnexus-bolsters-london-headcount
+https://about.att.com/story/2019/appnexus_to_grow_workforce.html
+https://www.thedrum.com/news/2019/02/11/att-funnel-all-programmatic-spend-through-xandr-and-appnexus
+https://techblog.appnexus.com/renovating-microservice-uis-8f639c7b8ffe
+lexible (re)targeting options
+
+You always have full cost control, transparency and success evaluation via the intelliAd platform. You can, for example, precisely select the ad exchanges (e.g. Google DoubleClick, AppNexus, Ströer SSP, Yieldlab, Improve Digital) and verticals (e.g. finance, shopping, news) in which your advertisements will be run. https://www.intelliad.com/display/
+ad exchange, verticals
+http://www.knowonlineadvertising.com/difference-between/vertical-ad-network-and-horizontal-ad-network/
+https://smallbusiness.chron.com/vertical-horizontal-advertising-25017.html
+https://andrewchen.co/vertical-ad-networks-what-are-they-and-why-did-cox-just-buy-adify-for-300mm/
+https://imaginenext.ingrammicro.com/data-center/20-vertical-markets-with-the-biggest-need-for-big-data-skills
+https://adclickmedia.com/blog/types-of-ad-networks/
+https://pitchbook.com/blog/what-are-industry-verticals
+https://www.bigcommerce.com/ecommerce-answers/what-is-a-vertical-market-online-selling-and-business-niches/
+http://www.imediaconnection.com/articles/ported-articles/red-dot-articles/2012/aug/how-publishers-sell-ad-inventory/
+https://themediaonline.co.za/2018/04/hidden-costs-for-programmatic-advertising-reduce-its-effectiveness/
+https://learn.percolate.com/hidden-cost-marketing-content/#
+http://dfpexpert.com/what-is-ad-inventory
+https://www.seerinteractive.com/blog/programmatic-advertising-101-works/
+https://adexchanger.com/data-driven-thinking/understanding-value-ad-inventory-targeting-half-battle/
+https://www.businessofapps.com/news/what-to-look-out-for-when-it-comes-to-quality-advertising-inventory/
+https://marketingland.com/programmatic-tv-future-heres-advertise-223663
+https://www.ezoic.com/
+http://www.themediatrader.com/the-media-traders-blog/2015/10/26/the-digital-advertising-ecosystem
+https://www.knowit.eu/services/experience/strategy-and-digitalization/knowits-take-on-tomorrow/programmatic-advertising-purchasing/
+https://www.thedrum.com/news/2019/08/07/the-hide-and-seek-programmatic-how-decode-the-hidden-costs-and-true-value
+https://adexchanger.com/platforms/investigation-dsps-charge-hidden-fees-many-cant-afford-stop/
+http://mandmglobal.com/when-low-cost-means-high-loss-in-programmatic-ad-buying/
+https://www.adviso.ca/en/blog/tech-en/the-hidden-face-of-programmatic-media-buys/
+https://www.businessinsider.com/brands-bring-programmatic-buying-in-house-2017-12?IR=T
+https://www.kbrdigi.com/kbr-programmatic
+https://hbr.org/2016/08/the-high-price-of-low-cost-cpms
+https://acaweb.ca/en/resource/programmatic-seeing-through-the-financial-fog/
+https://www.iponweb.com/2019/02/05/bringing-media-buying-in-house-cost-saver-or-money-drain/
+https://www.wordstream.com/blog/ws/2017/07/05/online-advertising-costs
+https://www.pathmatics.com/blog/bid-shading-the-programmatic-ad-buying-tactic-you-keep-hearing-about-explained
+https://www.digilant.com/programmatic-alphabet/
+https://www.sizmek.com/blog/native-programmatic-the-future-of-digital-advertising/
+http://www.programmatic-day.it/wp-content/uploads/2017/04/Adform.pdf
+http://evocaimagen.com/dosieres/dosier-evoca-03-programatica-en.pdf
+https://epom.com/blog/programmatic/inhouse-programmatic-media-buying
+https://www.adelphic.com/the-programmatic-traders-ultimate-wish-list/
+https://steelhouse.com/news/the-programmatic-revolution/
+https://steelhouse.com/reporting/see-beyond-the-click/
+https://www.totalmediasolutions.com/blog/go-in-house-with-programmatic-campaigns/
+https://www.inmobi.com/blog/2019/02/27/what-does-transparency-in-programmatic-advertising-really-mean
+https://www.exchangewire.com/blog/2018/02/19/blockchain-addresses-transparency-issues-programmatic-advertising/
+https://www.simplaex.com/news/programmatic-advertising-ecosystem-lost-translation/
+http://www.madvertising.pk/advertisers-insourcing-programmatic/
+https://www.datagalaxy.com/blog/data-gouvernance/maitriser-le-data-hub/
+https://www.lebigdata.fr/data-hub-definition
+
+Labyrinth Mind mapping

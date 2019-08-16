@@ -1,0 +1,9 @@
+https://www.ghostforbeginners.com/what-is-handlebars/
+https://oncletom.io/node.js/chapter-07/
+http://mfikri.com/en/blog/nodejs-mysql-crud
+https://github.com/iamDio/mvc-handlebars-mysql-example
+https://www.jernejsila.com/2017/06/20/handlebars-template-inheritance/
+https://habr.com/en/post/139931/
+
+https://www.oodlestechnologies.com/blogs/How-To-Use-Handlebars-in-Node-JS/
+https://www.muckibu.de/webpack-nodejs-express-fueled-typescript/

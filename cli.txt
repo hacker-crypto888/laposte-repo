@@ -1,0 +1,26 @@
+commandline interface
+https://wiki.appnexus.com/display/documentation/Release+0.111
+
+# 1/ ad selling, advertizers, ad inventory, click, targeting, 2/ chatbot, conversational commerce, 3/ e-commerce, e-shopping
+# 1/ 
+# 2/
+https://www.tecmint.com/install-and-access-facebook-messenger-on-linux-desktop/
+https://linuxnewbieguide.org/facebook-messenger-on-the-command-line/
+https://blog.hartleybrody.com/fb-messenger-bot/
+https://chatbotslife.com/how-to-make-a-facebook-messenger-chat-bot-in-1hr-af6bec5e7aec
+https://chatbotslife.com/building-a-messenger-movie-recommendations-chatbot-in-20-minutes-or-less-d0f06ad06d4b
+http://clivern.com/how-to-create-a-facebook-messenger-bot-with-java/
+https://www.sitepoint.com/building-facebook-chat-bot-node-heroku/
+https://dzone.com/articles/7-easy-steps-to-make-facebook-messenger-bots
+https://houseofbots.com/news-detail/244-LivePerson-launches-LiveEngage-for-Bots-the-world's-first-enterprise-bot-management-platform
+http://en.one1.co.il/media/162561/liveengage_factsheet_v2.pdf
+https://s3-eu-west-1.amazonaws.com/ce-sr/CA/Factsheets/LiveEngage+Facebook+Messenger+Factsheet_v4.pdf
+Surprisingly simple set-up
+1. The brand’s Facebook admin will generate a token through a LivePerson-provided link (one click).
+2. LivePerson automatically receives the token and configures the LiveEngage account.
+3. Incoming messages from Facebook Messenger are routed through LiveEngage.
+4. Brands configure agents, profiles, and concurrency through LiveEngage.
+https://martechtoday.com/liveperson-boosts-its-automated-conversational-capabilities-with-conversable-acquisition-226363
+https://knowledge.liveperson.com/ai-bots-automation-post-conversation-survey-bot.html
+
+# 3/
