@@ -15,3 +15,5 @@ https://sap.github.io/cloud-commerce-spartacus-storefront-docs/building-the-spar
 spartacus development
 build/compile
 https://www.vultr.com/docs/how-to-compile-nginx-from-source-on-ubuntu-16-04
+http://tryhandlebarsjs.com/
+https://upcity.com/blog/quick-introduction-lodash/
