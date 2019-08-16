@@ -1,1 +1,6 @@
 https://docs.grabaperch.com/perch/building/servers/installing-a-local-server-with-xampp/
+https://metacpan.org/pod/distribution/DBD-MariaDB/lib/DBD/MariaDB/INSTALL.pod
+https://metacpan.org/pod/DBD::MariaDB
+https://mariadb.com/kb/en/library/perl-dbi/
+https://metacpan.org/pod/DBD::MariaDB::INSTALL
+https://www.trustradius.com/compare-products/google-tag-manager-vs-sap-commerce-cloud
