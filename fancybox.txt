@@ -7,3 +7,5 @@ https://github.com/fancyapps/fancyBox/issues/1033
 Tracking Youtube Videos via GTM in 2018 (Using New Built-In Youtube Trigger) | GlowMetrics
 https://www.glowmetrics.com/blog/tracking-youtube-videos-via-gtm-in-2018-using-new-built-in-youtube-trigger/
 https://norway-foods.com/mr1etz/nginx-reverse-proxy-401.html
+
+#jquery + fancyBox
