@@ -48,3 +48,5 @@ https://discuss.linuxcontainers.org/t/comparing-lxd-vs-lxc/24
 https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1
 https://lxd.readthedocs.io/en/latest/#installing-lxd-from-packages
 
+https://redmondmag.com/articles/2019/08/12/containers-101-containers-vs-vms.aspx
+https://redmondmag.com/articles/2019/08/14/containers-101-understanding-kubernetes.aspx
