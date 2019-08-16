@@ -9,3 +9,6 @@ https://areknawo.com/lodash-and-usefulness-of-utility-libraries/
 https://derickbailey.com/2016/09/12/does-es6-mean-the-end-of-underscore-lodash/
 https://www.simoahava.com/analytics/google-tag-manager-and-jquery/
 https://help.dreamhost.com/hc/en-us/articles/115004415628-Node-js-installing-packages
+# lo dash is a library imported in javascript 
+# http/2 is a protocol used by Nginx
+# Nginx uses a Java servlet with http/2
