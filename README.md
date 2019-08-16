@@ -6,4 +6,4 @@
 | Android          | :white_check_mark: |
 | Computer browser | :white_check_mark: |
 
-![Image of Laposte cloud](https://github.com/hacker-crypto888/laposte-repo/blob/master/maps/Laposte.fr%20cloud%20architecture.png)
+![Image of Laposte cloud](https://github.com/hacker-crypto888/laposte-repo/blob/master/maps/Laposte.fr2.png)
