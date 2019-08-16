@@ -1,0 +1,2 @@
+https://azure.microsoft.com/en-us/blog/announcing-http-2-support-in-azure-app-service/
+https://docs.microsoft.com/fr-fr/azure/service-fabric-mesh/service-fabric-mesh-networks-and-gateways
