@@ -1,0 +1,10 @@
+https://www.ovh.com/fr/public-cloud/kubernetes/
+https://itnext.io/kubernetes-journey-up-and-running-out-of-the-cloud-architecture-overview-e75763b54922
+https://github.com/mvallim/kubernetes-under-the-hood?source=post_page-----e75763b54922----------------------
+https://kubernetes.io/docs/concepts/cluster-administration/cloud-providers/
+https://www.sitepoint.com/a-beginners-guide-to-handlebars/
+https://cloudacademy.com/blog/what-exactly-is-a-cloud-architect-and-how-do-you-become-one/
+http://blog.dotnetnerd.dk/post/2017/10/05/Template-for-TypeScript-Handlebars-and-Webpack-architecture.aspx
+https://www.developpez.net/forums/d1582919/webmasters-developpement-web/general-conception-web/contribuez/telechargez/jquery-migrate/
+https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/
+https://www.oracle.com/technetwork/java/intro-jquery-166845.html
