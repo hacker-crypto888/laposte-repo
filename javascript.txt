@@ -6,3 +6,4 @@ https://netbasal.com/javascript-make-your-code-cleaner-with-lodash-e1292663d2de
 
 https://dev.to/pika/a-future-without-webpack-ago?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=pika
 https://areknawo.com/lodash-and-usefulness-of-utility-libraries/
+https://derickbailey.com/2016/09/12/does-es6-mean-the-end-of-underscore-lodash/
