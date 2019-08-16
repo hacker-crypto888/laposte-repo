@@ -10,3 +10,6 @@ https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/
 https://www.oracle.com/technetwork/java/intro-jquery-166845.html
 iphone
 http://nicknotfound.com/2009/01/12/iphone-website-with-nginx/
+spartacus installation build
+https://sap.github.io/cloud-commerce-spartacus-storefront-docs/building-the-spartacus-storefront-from-libraries/
+spartacus development
