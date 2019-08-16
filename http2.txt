@@ -5,3 +5,10 @@ https://www.advancedwebranking.com/blog/beginners-guide-to-http2/
 https://www.valtech.com/insights/http2-and-sitecore-why-your-it-team-is-saying-no/
 https://www.advancedwebranking.com/blog/beginners-guide-to-http2/
 https://redmondmag.com/articles/2019/02/21/windows-server-http2-attack-advisory.aspx
+
+https://blog.stackpath.com/glossary-http2/
+https://www.net7.be/blog/article/kubernetes_ingress_bare_metal_load_balancing.html
+
+
+Java servlet
+https://en.wikipedia.org/wiki/Java_servlet
