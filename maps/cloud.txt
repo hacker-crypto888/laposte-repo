@@ -8,3 +8,5 @@ http://blog.dotnetnerd.dk/post/2017/10/05/Template-for-TypeScript-Handlebars-and
 https://www.developpez.net/forums/d1582919/webmasters-developpement-web/general-conception-web/contribuez/telechargez/jquery-migrate/
 https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/
 https://www.oracle.com/technetwork/java/intro-jquery-166845.html
+iphone
+http://nicknotfound.com/2009/01/12/iphone-website-with-nginx/
