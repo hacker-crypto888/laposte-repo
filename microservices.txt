@@ -9,3 +9,4 @@ https://www.freecodecamp.org/news/service-and-micro-service-oriented-architectur
 https://blogs.opentext.com/pros-cons-microservices/
 https://lightstep.com/blog/the-end-of-microservices/
 https://www.pulatech.com/insights/articles/micro-services-serious-integration-pattern-just-buzzword/
+https://hybrisarchitect.com/how-to-build-omni-commerce-microservices-with-sap-cx-hybris-commerce/
