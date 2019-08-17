@@ -14,3 +14,4 @@ https://techbeacon.com/enterprise-it/8-best-open-source-tools-building-microserv
 https://nl.devoteam.com/en/offer/agile-it/microservices-architecture/
 https://nl.devoteam.com/en/blog-post/microservices-and-integration-doing-it-right/
 https://smartbear.com/solutions/microservices/
+http://www.tridiondeveloper.com/auto-starting-microservices-on-linux-content-delivery-servers
