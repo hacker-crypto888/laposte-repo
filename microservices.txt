@@ -13,3 +13,4 @@ https://hybrisarchitect.com/how-to-build-omni-commerce-microservices-with-sap-cx
 https://techbeacon.com/enterprise-it/8-best-open-source-tools-building-microservice-apps
 https://nl.devoteam.com/en/offer/agile-it/microservices-architecture/
 https://nl.devoteam.com/en/blog-post/microservices-and-integration-doing-it-right/
+https://smartbear.com/solutions/microservices/
