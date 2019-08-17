@@ -52,4 +52,6 @@ https://redmondmag.com/articles/2019/08/12/containers-101-containers-vs-vms.aspx
 https://redmondmag.com/articles/2019/08/14/containers-101-understanding-kubernetes.aspx
 https://habr.com/en/post/438186/
 https://www.luminary.com/blog/we-built-our-new-site-using-kentico-cloud
+
 https://awesome-docker.netlify.com/
+https://www.sdxcentral.com/containers/definitions/how-does-container-networking-work/?c_action=related_articles
