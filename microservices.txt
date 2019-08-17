@@ -16,3 +16,4 @@ https://nl.devoteam.com/en/blog-post/microservices-and-integration-doing-it-righ
 https://smartbear.com/solutions/microservices/
 http://www.tridiondeveloper.com/auto-starting-microservices-on-linux-content-delivery-servers
 http://progressivecoder.com/is-microservices-just-a-buzz-word/
+https://www.infoq.com/presentations/monolith-observable-microservices-ddd/
