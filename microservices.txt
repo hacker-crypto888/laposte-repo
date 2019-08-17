@@ -1,1 +1,2 @@
 https://devopedia.org/microservices
+https://segment.com/blog/goodbye-microservices/
