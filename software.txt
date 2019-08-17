@@ -1,2 +1,5 @@
 https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/conversational-bot.png
 https://image.slidesharecdn.com/frontendsecurity-150702062121-lva1-app6891/95/frontend-security-applying-contextual-escaping-automatically-or-how-to-stop-xss-in-seconds-11-638.jpg?cb=1435818436
+https://www.nginx.com/blog/building-secure-fast-network-fabric-microservices-applications/
+https://bigdata-madesimple.com/how-do-chatbots-work-an-overview-of-the-architecture-of-a-chatbot/
+https://chatbotslife.com/nlp-nlu-nlg-and-how-chatbots-work-dd7861dfc9df
