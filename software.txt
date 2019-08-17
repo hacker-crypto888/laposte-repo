@@ -3,3 +3,11 @@ https://image.slidesharecdn.com/frontendsecurity-150702062121-lva1-app6891/95/fr
 https://www.nginx.com/blog/building-secure-fast-network-fabric-microservices-applications/
 https://bigdata-madesimple.com/how-do-chatbots-work-an-overview-of-the-architecture-of-a-chatbot/
 https://chatbotslife.com/nlp-nlu-nlg-and-how-chatbots-work-dd7861dfc9df
+
+https://www.google.com/search?q=cloud+architecture+patterns&client=ubuntu&tbm=isch&tbs=rimg:Cb33bOnGeQJiImAtl0wxKNCWr-boMVRypEWVdJSPSu0PpvMkpAZQV4Nvs78jXPhzCTkCDS_17bYO5UfRPmCIXToaLL5ONB5Fo7opHRS8vk8e8DAGrga76QRCt8I9rLp6BbnjEWlsm-are8eYqEgktl0wxKNCWrxEdY-D2BW4_1uCoSCeboMVRypEWVEYcvyGqHjcmCKhIJdJSPSu0PpvMRLtgHecnw20wqEgkkpAZQV4NvsxFB7jNxBui-vSoSCb8jXPhzCTkCEU-mDSlEbImRKhIJDS_17bYO5UfQRJKc_1ctw2BNEqEglPmCIXToaLLxHjZJWgeAVXGSoSCZONB5Fo7opHEcfnlbnNacmvKhIJRS8vk8e8DAERylCYQyfrNg4qEgmrga76QRCt8BG-XVnbeis5zyoSCY9rLp6BbnjEEfEEdxPwweZJKhIJWlsm-are8eYRtzDDga8Sz30&tbo=u&sa=X&ved=2ahUKEwj5yYyevYjkAhUtx4UKHWNUBAMQuIIBegQIARAv&biw=959&bih=502&dpr=1
+https://www.linuxjournal.com/content/everything-you-need-know-about-cloud-and-cloud-computing-part-i
+high level software architecture
+https://www.nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/
+https://developers.google.com/web/fundamentals/performance/http2/
+https://wiki.appnexus.com/display/industry/Introduction+to+Cloud+Computing
+https://www.zdnet.com/article/multicloud-everything-you-need-to-know-about-the-biggest-trend-in-cloud-computing/
