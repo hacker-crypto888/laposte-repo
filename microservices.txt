@@ -6,3 +6,4 @@ https://developer.ibm.com/articles/cl-evolution-microservices-patterns/
 https://searchapparchitecture.techtarget.com/feature/Microservices-is-more-than-a-buzzword
 https://www.linkedin.com/pulse/agile-microservices-buzzword-bingo-kevin-miles/
 https://www.freecodecamp.org/news/service-and-micro-service-oriented-architectures-explained-2f8d5da0ecdd/
+https://blogs.opentext.com/pros-cons-microservices/
