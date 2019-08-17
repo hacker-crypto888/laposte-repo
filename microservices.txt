@@ -17,3 +17,12 @@ https://smartbear.com/solutions/microservices/
 http://www.tridiondeveloper.com/auto-starting-microservices-on-linux-content-delivery-servers
 http://progressivecoder.com/is-microservices-just-a-buzz-word/
 https://www.infoq.com/presentations/monolith-observable-microservices-ddd/
+
+https://techbeacon.com/app-dev-testing/9-best-open-source-options-building-microservice-apps
+https://www.developer.com/open/building-microservices-with-open-source-technologies.html
+https://developer.ibm.com/blogs/what-are-containers-and-why-do-you-need-them/
+https://dzone.com/articles/microservices-and-devops-1
+https://www.javacodegeeks.com/2019/04/microservices-for-java-developers-continuous-integration-and-continuous-delivery.html
+https://piotrminkowski.wordpress.com/2017/03/20/microservices-continuous-delivery-with-docker-and-jenkins/
+https://cloudblogs.microsoft.com/opensource/2019/07/15/how-to-get-started-containers-docker-kubernetes/
+https://techbeacon.com/enterprise-it/30-essential-container-technology-tools-resources-0
