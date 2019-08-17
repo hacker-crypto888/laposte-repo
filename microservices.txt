@@ -7,3 +7,4 @@ https://searchapparchitecture.techtarget.com/feature/Microservices-is-more-than-
 https://www.linkedin.com/pulse/agile-microservices-buzzword-bingo-kevin-miles/
 https://www.freecodecamp.org/news/service-and-micro-service-oriented-architectures-explained-2f8d5da0ecdd/
 https://blogs.opentext.com/pros-cons-microservices/
+https://lightstep.com/blog/the-end-of-microservices/
