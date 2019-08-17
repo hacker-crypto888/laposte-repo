@@ -1,2 +1,3 @@
 https://devopedia.org/microservices
 https://segment.com/blog/goodbye-microservices/
+https://weave.eu/difficultes-posees-microservices-12/
