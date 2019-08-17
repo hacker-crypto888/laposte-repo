@@ -10,3 +10,6 @@ https://blogs.opentext.com/pros-cons-microservices/
 https://lightstep.com/blog/the-end-of-microservices/
 https://www.pulatech.com/insights/articles/micro-services-serious-integration-pattern-just-buzzword/
 https://hybrisarchitect.com/how-to-build-omni-commerce-microservices-with-sap-cx-hybris-commerce/
+https://techbeacon.com/enterprise-it/8-best-open-source-tools-building-microservice-apps
+https://nl.devoteam.com/en/offer/agile-it/microservices-architecture/
+https://nl.devoteam.com/en/blog-post/microservices-and-integration-doing-it-right/
