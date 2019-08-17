@@ -1,3 +1,8 @@
 https://devopedia.org/microservices
 https://segment.com/blog/goodbye-microservices/
 https://weave.eu/difficultes-posees-microservices-12/
+https://news.ycombinator.com/item?id=17026215
+https://developer.ibm.com/articles/cl-evolution-microservices-patterns/
+https://searchapparchitecture.techtarget.com/feature/Microservices-is-more-than-a-buzzword
+https://www.linkedin.com/pulse/agile-microservices-buzzword-bingo-kevin-miles/
+https://www.freecodecamp.org/news/service-and-micro-service-oriented-architectures-explained-2f8d5da0ecdd/
