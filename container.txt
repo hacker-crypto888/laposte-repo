@@ -50,3 +50,34 @@ https://lxd.readthedocs.io/en/latest/#installing-lxd-from-packages
 
 https://redmondmag.com/articles/2019/08/12/containers-101-containers-vs-vms.aspx
 https://redmondmag.com/articles/2019/08/14/containers-101-understanding-kubernetes.aspx
+https://habr.com/en/post/438186/
+
+https://awesome-docker.netlify.com/
+https://www.sdxcentral.com/containers/definitions/how-does-container-networking-work/?c_action=related_articles
+https://techbeacon.com/enterprise-it/essential-guide-software-containers-application-development
+https://www.redhat.com/en/topics/containers
+https://eng.uber.com/makisu/
+
+Build-to-image
+https://opensource.com/article/19/5/source-image-golang-part-1
+https://docs.openshift.com/container-platform/3.4/using_images/s2i_images/index.html
+
+https://boxboat.com/2018/12/07/docker-ce-vs-docker-ee/
+always
+https://azure.microsoft.com/en-us/free/
+deploy docker community edition to microsoft azure
+deploy SAP commerce cluster to google kubernetes cloud
+https://hybrismart.com/2018/10/21/behind-the-scenes-of-the-new-sap-commerce-cloud/
+
+Dynatrace > Apache for Docker/Ingress for Kubernetes
+> Grafana > Prometheus > Google containerAdvisor > NodeExporter
+> Kibana > Elasticsearch > FluentBit
+https://grafana.com/grafana/dashboards/6963
+https://www.lemagit.fr/actualites/450418462/Red-Hat-veut-devenir-le-VMware-des-containers
+https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee
+https://www.linux.com/learn/intro-to-linux/2017/11/how-install-and-use-docker-linux
+https://github.com/corneliusweig/kubernetes-lxd
+https://supergiant.io/blog/exporting-kubernetes-logs-to-elasticsearch-using-fluent-bit/
+https://grafana.com/grafana/plugins/graph
+https://grafana.com/grafana/plugins/singlestat
+https://medium.com/htc-research-engineering-blog/install-a-kubernetes-cluster-with-kubeadm-on-ubuntu-step-by-stepff-c118514bc5e0

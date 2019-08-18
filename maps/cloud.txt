@@ -8,3 +8,12 @@ http://blog.dotnetnerd.dk/post/2017/10/05/Template-for-TypeScript-Handlebars-and
 https://www.developpez.net/forums/d1582919/webmasters-developpement-web/general-conception-web/contribuez/telechargez/jquery-migrate/
 https://kruschecompany.com/ember-jquery-angular-react-vue-what-to-choose/
 https://www.oracle.com/technetwork/java/intro-jquery-166845.html
+iphone
+http://nicknotfound.com/2009/01/12/iphone-website-with-nginx/
+spartacus installation build
+https://sap.github.io/cloud-commerce-spartacus-storefront-docs/building-the-spartacus-storefront-from-libraries/
+spartacus development
+build/compile
+https://www.vultr.com/docs/how-to-compile-nginx-from-source-on-ubuntu-16-04
+http://tryhandlebarsjs.com/
+https://upcity.com/blog/quick-introduction-lodash/
