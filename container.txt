@@ -80,3 +80,4 @@ https://github.com/corneliusweig/kubernetes-lxd
 https://supergiant.io/blog/exporting-kubernetes-logs-to-elasticsearch-using-fluent-bit/
 https://grafana.com/grafana/plugins/graph
 https://grafana.com/grafana/plugins/singlestat
+https://medium.com/htc-research-engineering-blog/install-a-kubernetes-cluster-with-kubeadm-on-ubuntu-step-by-stepff-c118514bc5e0
