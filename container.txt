@@ -63,3 +63,5 @@ https://opensource.com/article/19/5/source-image-golang-part-1
 https://docs.openshift.com/container-platform/3.4/using_images/s2i_images/index.html
 
 https://boxboat.com/2018/12/07/docker-ce-vs-docker-ee/
+always
+https://azure.microsoft.com/en-us/free/
