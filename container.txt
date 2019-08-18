@@ -83,3 +83,4 @@ https://grafana.com/grafana/plugins/singlestat
 https://medium.com/htc-research-engineering-blog/install-a-kubernetes-cluster-with-kubeadm-on-ubuntu-step-by-stepff-c118514bc5e0
 https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer
 https://success.docker.com/article/using-systemd-to-control-the-docker-daemon
+https://linode.com/docs/applications/containers/kubernetes/how-to-deploy-nginx-on-a-kubernetes-cluster/
