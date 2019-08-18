@@ -67,3 +67,4 @@ always
 https://azure.microsoft.com/en-us/free/
 deploy docker community edition to microsoft azure
 deploy SAP commerce cluster to google kubernetes cloud
+https://hybrismart.com/2018/10/21/behind-the-scenes-of-the-new-sap-commerce-cloud/
