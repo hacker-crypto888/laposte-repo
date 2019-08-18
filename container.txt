@@ -72,3 +72,7 @@ https://hybrismart.com/2018/10/21/behind-the-scenes-of-the-new-sap-commerce-clou
 Dynatrace > Apache for Docker/Ingress for Kubernetes
 > Grafana > Prometheus > Google containerAdvisor > NodeExporter
 > Kibana > Elasticsearch > FluentBit
+https://grafana.com/grafana/dashboards/6963
+https://www.lemagit.fr/actualites/450418462/Red-Hat-veut-devenir-le-VMware-des-containers
+https://itnext.io/logging-best-practices-for-kubernetes-using-elasticsearch-fluent-bit-and-kibana-be9b7398dfee
+https://www.linux.com/learn/intro-to-linux/2017/11/how-install-and-use-docker-linux
