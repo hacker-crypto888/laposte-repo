@@ -116,3 +116,4 @@ https://www.elastic.co/what-is/elk-stack
 kibana elasticsearch - Google Search
 https://www.google.fr/search?client=ubuntu&hs=wnl&ei=1LFaXenMNdKkaaaHk5gE&q=kibana+elasticsearch&oq=kibana+elasticsearch&gs_l=psy-ab.3..0i67j0j0i203l8.108225.111583..112101...1.7..1.274.1936.19j1j1......0....1..gws-wiz.......0i71j35i39j0i20i263j0i10.sAT3BktJDVA&ved=0ahUKEwjphvqfko_kAhVSUhoKHabDBEMQ4dUDCAo&uact=5
 Search
+https://defuse.ca/bochs-hacking-guide.htm
