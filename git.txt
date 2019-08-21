@@ -86,3 +86,34 @@ https://norway-foods.com/mr1etz/nginx-reverse-proxy-401.html
 Human Verification
 https://newsmode.me/?p=guztazjwmy5gi3bpge4dkmi#
 
+
+Elastic: An Elasticsearch client for Go
+https://olivere.github.io/elastic/
+elastic/go-elasticsearch: The official Go client for Elasticsearch
+https://github.com/elastic/go-elasticsearch
+olivere/elastic: Elasticsearch client for Go.
+https://github.com/olivere/elastic
+A Quick Introduction to LXD - Scott's Weblog - The weblog of an IT pro focusing on cloud computing, Kubernetes, Linux, containers, and networking
+https://blog.scottlowe.org/2015/05/06/quick-intro-lxd/
+Docker Daemon for 32-bit architecture | nirmata
+https://www.nirmata.com/2016/02/09/docker-daemon-for-x32-architectures/
+Install etcd as systemd service on Ubuntu Linux server
+https://www.sma.im/install-etcd-as-systemd-service-on-ubuntu-server/
+grafana 32 bits - Google Search
+https://www.google.fr/search?q=grafana+32+bits&oq=grafana+32+bits&aqs=chrome..69i57j0l5.2831j0j4&client=ubuntu&sourceid=chrome&ie=UTF-8
+UbuntuUpdates - Package "grafana" (xenial 16.04)
+https://www.ubuntuupdates.org/package/core/xenial/universe/base/grafana
+ubuntu install prometheus - Google Search
+https://www.google.fr/search?q=ubuntu+install+prometheus&oq=ubuntu+install+prometh&aqs=chrome.0.0j69i57j0l4.5636j0j4&client=ubuntu&sourceid=chrome&ie=UTF-8
+How To Install Prometheus on Ubuntu 16.04 | DigitalOcean
+https://www.digitalocean.com/community/tutorials/how-to-install-prometheus-on-ubuntu-16-04
+Working With Elasticsearch in Go
+https://goinbigdata.com/working-with-elasticsearch-in-go/
+chrome://newtab
+chrome://newtab/
+ELK Stack: Elasticsearch, Logstash, Kibana | Elastic
+https://www.elastic.co/what-is/elk-stack
+kibana elasticsearch - Google Search
+https://www.google.fr/search?client=ubuntu&hs=wnl&ei=1LFaXenMNdKkaaaHk5gE&q=kibana+elasticsearch&oq=kibana+elasticsearch&gs_l=psy-ab.3..0i67j0j0i203l8.108225.111583..112101...1.7..1.274.1936.19j1j1......0....1..gws-wiz.......0i71j35i39j0i20i263j0i10.sAT3BktJDVA&ved=0ahUKEwjphvqfko_kAhVSUhoKHabDBEMQ4dUDCAo&uact=5
+Search
+https://defuse.ca/bochs-hacking-guide.htm
